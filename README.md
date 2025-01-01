@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus
 ---
 
 ## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Naveenkumar7125?theme=nord&ext=heatmap&font=Georgia&bg=0a0f24&text=ffd700&icon=ffd700&title=ffd700&border=0a0f24)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Naveenkumar7125?theme=monokai-metallian&ext=heatmap&font=Georgia&bg=0a0f24&text=ffd700&icon=ffd700&title=ffd700&border=0a0f24)
 
 
 
