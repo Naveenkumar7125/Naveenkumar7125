@@ -51,6 +51,13 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus
 
 ---
 
+
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com?user=your-github-Naveenkumar7125&theme=radical&hide_border=true)
+
+---
+
+Feel free to explore the repository and discuss solutions!
+
 ## 📫 Connect With Me
 
 
