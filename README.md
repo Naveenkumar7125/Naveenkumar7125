@@ -64,7 +64,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus
 )
 
 
-
 ---
 
 Feel free to explore the repository and discuss solutions!
