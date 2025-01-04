@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus
 ## About Me
 
 - 🎓 **Grand Finalist** at **Smart India Hackathon 2024 (SIH'24)**.  
-- 💻 Skilled in both frontend and backend development.  
+- 💻 Skilled in both frontend and backend development. 
 - 💡 Solved over **220+ problems** on **LeetCode**.  
 - ✨ Actively participated in hackathons and coding competitions, excelling in team collaboration and innovation.  
 - 📚 Passionate about learning and applying the latest tech trends in development and AI.  
