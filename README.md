@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus
    - **Tech Stack:** Python, MERN Stack, Cloudinary  
    - 🚀 This project integrates AI and web technologies to enhance criminal detection efficiency.
 
-### 2. **Online Polling System** 
+### 2. **Online Polling System ** 
    - **Tech Stack:** MERN Stack  
    - 🗳️ A secure and scalable online polling platform.
 
