@@ -1,10 +1,6 @@
 # Hi there, I'm NAVEENKUMAR T! 👋
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus on solving real-world problems and a keen interest in learning new technologies. Here you'll find a collection of my projects, skills, and achievements. Let's build something amazing together! 🚀
-
----
-
-![Profile Banner](https://your-premium-banner-url.com/banner.png) <!-- Replace with your Canva-designed banner URL -->
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus on solving real-world problems and a keen interest in learning new technologies.Here you'll find a collection of my projects, skills, and achievements. Let's build something amazing together! 🚀
 
 ---
 
@@ -40,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus
    - **Tech Stack:** Python, MERN Stack, Cloudinary  
    - 🚀 This project integrates AI and web technologies to enhance criminal detection efficiency.
 
-### 2. **Online Polling System** 
+### 2. **Online Polling System ** 
    - **Tech Stack:** MERN Stack  
    - 🗳️ A secure and scalable online polling platform.
 
@@ -53,37 +49,33 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus
 ## 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Naveenkumar7125?theme=dark&ext=heatmap&font=Georgia&bg=0a0f24&text=ffd700&icon=ffd700&title=ffd700&border=0a0f24)
 
----
 
-## 🔄 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar7125&bg_color=0a0f24&color=ffd700&line=4169e1&point=ffd700&area=true&hide_border=true)
 
 ---
 
-## 🏆 Achievements
 
-- 📊 Ranked **Top 10%** in [XYZ Hackathon 2023].  
-- ✍️ Published technical blogs on [Medium](https://medium.com/) with **5K+ views**.  
-- 🌟 Mentored 10+ juniors in full-stack development and competitive programming.  
-- 📚 Certified in **AWS Cloud Practitioner** and **Data Structures & Algorithms**.  
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com?user=Naveenkumar7125&theme=monokai-metallian&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&background=0a0f24&hide_border=false)
 
----
 
-## 📝 Testimonials
 
-> “Naveenkumar has an exceptional ability to tackle complex problems with innovative solutions. His collaboration and leadership skills during hackathons are unmatched.”  
-— **John Doe**, Mentor, SIH'24  
+# Contributions Activity Graph
 
-> “Working with Naveenkumar was a pleasure. His attention to detail and proficiency in the MERN stack made our project a huge success.”  
-— **Jane Smith**, Team Lead, XYZ Hackathon 2023  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar7125&bg_color=0a0f24&color=ffd700&line=4169e1&point=ffd700&area=true&hide_border=true
+)
+
 
 ---
 
-## 📣 Connect With Me
+Feel free to explore the repository and discuss solutions!
+
+## 📫 Connect With Me
+
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/naveenkumar-t-683306320/) (1K+ followers)  
 - 📧 Email: naveenkumart906@gmail.com  
 - 🌐 Personal Portfolio: [Coming Soon...!] 
+---
+
 
 ---
 
