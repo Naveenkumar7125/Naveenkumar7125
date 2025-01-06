@@ -60,8 +60,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus
 ### GitHub Contribution Activity
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar7125&theme=react-dark&hide_border=true&color=ffb000&line=00e7ff&point=ffb000&area=true)
 
-
-
+---
+[![NK's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveenkumar7125)](https://github.com/Naveenkumar7125/github-readme-stats)
 
 ---
 
