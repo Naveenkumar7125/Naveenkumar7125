@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus
 ## 🔄 GitHub Stats
 
 ### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Naveenkumar7125&theme=monokai-metallian&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=Naveenkumar7125&theme=monokai-metallian&hide_border=false)
 
 ### GitHub Contribution Activity
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar7125&theme=react-dark&hide_border=true&color=ffb000&line=00e7ff&point=ffb000&area=true)
