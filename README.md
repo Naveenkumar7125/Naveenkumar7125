@@ -1,6 +1,6 @@
 # Hi there, I'm NAVEENKUMAR T! 👋
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus on solving real-world problems and a keen interest in learning new technologies. Here you'll find a collection of my projects, skills, and achievements. Let's build something amazing together! 🚀
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus on solving real-world problems and a keen interest in learning new technologies. Here you'll find a collection of my projects,skills, and achievements. Let's build something amazing together! 🚀
 
 ---
 
