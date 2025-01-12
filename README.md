@@ -20,29 +20,29 @@
 
 ## 🔧 Tech Skills
 
-### **Programming Languages**:
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
 
----
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
+- ![Python](https://img.icons8.com/color/48/000000/python.png) 
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
-### **Frameworks & Libraries**:
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
-- ![Express](https://img.icons8.com/color/48/000000/express.png) Express
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
 
----
 
-### **Tools & Platforms**:
-- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
-- ![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma
-- ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL
+
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) 
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
+- ![Express](https://img.icons8.com/color/48/000000/express.png) 
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
+
+
+
+
+- ![Git](https://img.icons8.com/color/48/000000/git.png) 
+- ![Figma](https://img.icons8.com/color/48/000000/figma.png) 
+- ![SQL](https://img.icons8.com/color/48/000000/sql.png) 
 
 ---
 
