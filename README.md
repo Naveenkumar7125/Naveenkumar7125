@@ -20,15 +20,29 @@
 
 ## 🔧 Tech Skills
 
-| **Programming Languages** | **Frameworks & Libraries** | **Tools & Platforms** |
-|--------------------------|----------------------------|------------------------|
-| ![C](https://img.icons8.com/color/48/000000/c-programming.png) C            | ![React](https://img.icons8.com/color/48/000000/react-native.png) React         | ![Git](https://img.icons8.com/color/48/000000/git.png) Git       |
-| ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++      | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js     | ![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma |
-| ![Python](https://img.icons8.com/color/48/000000/python.png) Python         | ![Express](https://img.icons8.com/color/48/000000/express.png) Express     | ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL       |
-| ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap |                          |
-| ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML             |                                            |                          |
-| ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS                 |                                            |                          |
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript |                                        |                          |
+### **Programming Languages**:
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+
+---
+
+### **Frameworks & Libraries**:
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+- ![Express](https://img.icons8.com/color/48/000000/express.png) Express
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
+
+---
+
+### **Tools & Platforms**:
+- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+- ![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma
+- ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL
 
 ---
 
