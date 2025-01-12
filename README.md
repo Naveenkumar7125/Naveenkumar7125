@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/White Minimalist Simple Aesthetic Name Twitter Header.png" />
+  <img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/White Minimalist Simple Aesthetic Name Twitter Header.mp4" />
 </p>
 
 <div align="center">
