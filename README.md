@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/White Minimalist Simple Aesthetic Name Twitter Header.png" /></a></p>
+<p align="center"><img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/White Minimalist Simple Aesthetic Name Twitter Header.png" /></a></p>
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
