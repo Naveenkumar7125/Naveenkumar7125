@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/Happy.png" />
+  <img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/assets/Happy-removebg-preview.png" />
 </p>
 
 <div align="center">
