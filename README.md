@@ -1,10 +1,15 @@
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus on solving real-world problems and a keen interest in learning new technologies. Here you'll find a collection of my projects,skills, and achievements. Let's build something amazing together! 🚀
+
+
+
+
 <p align="center">
   <img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/Happy__3_-removebg-preview.png" />
 </p>
 
 
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus on solving real-world problems and a keen interest in learning new technologies. Here you'll find a collection of my projects,skills, and achievements. Let's build something amazing together! 🚀
+
 
 ---
 
