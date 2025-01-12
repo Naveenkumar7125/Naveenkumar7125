@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/Happy__2_-removebg-preview (1).png" />
+  <img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/Happy__3_-removebg-preview.png" />
 </p>
 
 
