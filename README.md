@@ -67,9 +67,6 @@ Feel free to explore the repository and discuss solutions!
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/naveenkumar-t-683306320/) (1K+ followers)  
-- 📧 Email: naveenkumart906@gmail.com  
-- 🌐 Personal Portfolio: [Coming Soon...!]
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-1K%2B%20Followers-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveenkumar-t-683306320/)  
 - [![Email](https://img.shields.io/badge/Email-naveenkumart906%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:naveenkumart906@gmail.com)  
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Naveenkumar7125/)  
