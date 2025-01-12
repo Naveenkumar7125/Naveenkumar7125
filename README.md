@@ -65,7 +65,8 @@
 ## 📊 LeetCode Stats
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Naveenkumar7125?theme=wtf&font=Source%20Sans%20Pro&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Naveenkumar7125?theme=dark&font=Source%20Sans%20Pro&ext=heatmap)
+
 ---
 
 
