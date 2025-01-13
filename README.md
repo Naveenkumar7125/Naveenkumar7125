@@ -75,8 +75,7 @@
 
 ## 🔄 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar7125&theme=merko&hide_border=true" alt="Naveenkumar7125's GitHub Stats" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar7125&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Naveenkumar7125's GitHub Stats" />
 
 ### GitHub Contribution Activity
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar7125&theme=react-dark&hide_border=true&color=ffb000&line=00e7ff&point=ffb000&area=true)
