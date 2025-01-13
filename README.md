@@ -75,8 +75,7 @@
 
 ## 🔄 GitHub Stats
 
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com?user=Naveenkumar7125&theme=monokai-metallian&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&background=0a0f24&hide_border=false)
-
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar7125&theme=merko&hide_border=true)
 
 
 ### GitHub Contribution Activity
