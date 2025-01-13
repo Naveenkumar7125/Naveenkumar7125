@@ -75,7 +75,7 @@
 
 ## 🔄 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar7125&theme=merko&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar7125&theme=merko&hide_border=true" alt="Naveenkumar7125's GitHub Stats" />
 
 
 ### GitHub Contribution Activity
