@@ -74,6 +74,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Naveenkumar7125/Naveenkumar7125/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/Naveenkumar7125/Naveenkumar7125/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+### 🐍 Contribution Snake Game
+
+![GitHub Snake Light](https://github.com/Naveenkumar7125/Naveenkumar7125/blob/output/snake.svg)
+
 ---
 
 ## 🔄 GitHub Stats
