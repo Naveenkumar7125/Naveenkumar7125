@@ -76,7 +76,7 @@
 </picture>
 ### 🐍 Contribution Snake Game
 
-![GitHub Snake Light](https://github.com/Naveenkumar7125/Naveenkumar7125/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Light](https://github.com/Naveenkumar7125/Naveenkumar7125/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
