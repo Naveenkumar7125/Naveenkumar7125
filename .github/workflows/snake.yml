@@ -24,4 +24,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: dist # This will push the 'dist' folder to the branch
+          target_branch: output # Ensure the target branch is output
