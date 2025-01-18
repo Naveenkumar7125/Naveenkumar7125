@@ -14,7 +14,7 @@
 - ✨ Actively participated in hackathons and coding competitions, excelling in team collaboration and innovation.  
 - 📚 Passionate about learning and applying the latest tech trends in development and AI.  
 - 📱 Enthusiastic about developing scalable and innovative solutions to real-world challenges.  
-- 🌐 Strong presence on LinkedIn with **1K+ followers**.
+- 🌐 Strong presence on LinkedIn with **1K+ followers**
 
 ---
 
