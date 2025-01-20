@@ -46,7 +46,7 @@
 
 ---
 
-## 📂 Projects
+## 📂 Projects...
 
 ### 1. **Smart Criminal Detection**  (In Progress)
    - **Tech Stack:** Python, MERN Stack, Cloudinary  
