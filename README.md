@@ -74,20 +74,29 @@ Feel free to explore the repository and discuss solutions!
 
 ---
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumar7125&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumar7125" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumar7125" alt="naveenkumar7125" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar7125&show_icons=true&locale=en&layout=compact" alt="naveenkumar7125" /></p>
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 Let's connect, collaborate, and create the future together! 😊
