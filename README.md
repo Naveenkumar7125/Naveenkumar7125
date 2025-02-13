@@ -75,7 +75,7 @@ Feel free to explore the repository and discuss solutions!
 ---
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumar7125&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumar7125" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumar7125&label=Profile%20views&color=111111&style=flat" alt="naveenkumar7125" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumar7125" alt="naveenkumar7125" /></a> </p>
 
