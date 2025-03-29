@@ -10,11 +10,11 @@
 
 - 🎓 **Grand Finalist** at **Smart India Hackathon 2024 (SIH'24)**.
 - 💻 Skilled in both frontend and backend development. 
-- 💡 Solved over **270+ problems** on **LeetCode**.  
+- 💡 Solved over **300+ problems** on **LeetCode**.  
 - ✨ Actively participated in hackathons and coding competitions, excelling in team collaboration and innovation.  
 - 📚 Passionate about learning and applying the latest tech trends in development and AI.  
 - 📱 Enthusiastic about developing scalable and innovative solutions to real-world challenges.  
-- 🌐 Strong presence on LinkedIn with **1K+ followers**
+- 🌐 Strong presence on LinkedIn with **2K+ followers**
 
 ---
 
@@ -68,7 +68,7 @@ Feel free to explore the repository and discuss solutions!
 
 ## 📫 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-1K%2B%20Followers-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveenkumar-t-683306320/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-2K%2B%20Followers-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveenkumar-t-683306320/)  
 - [![Email](https://img.shields.io/badge/Email-naveenkumart906%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:naveenkumart906@gmail.com)  
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Naveenkumar7125/)  
 
