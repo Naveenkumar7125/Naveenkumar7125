@@ -43,7 +43,7 @@
 ## 📊 LeetCode Stats
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Naveenkumar7125?theme=chartreuse&font=Sora&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SPD-LEGEND?theme=chartreuse&font=Sora&ext=heatmap)
 
 ---
 
