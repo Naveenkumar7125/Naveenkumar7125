@@ -4,6 +4,11 @@
   <img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/Happy__3_-removebg-preview.png" />
 </p>
 
+<p align="center">
+  <img src="./assets/hi.gif" width="80px" />
+</p>
+
+
 ---
 
 ## About Me
