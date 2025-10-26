@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/Happy__3_-removebg-preview.png" />
+  <img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/TextStudio-Typewriter (2).gif" />
 </p>
 
 <p align="center">
