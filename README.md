@@ -8,6 +8,35 @@
   <img src="./assets/hi.gif" width="400px" height = "250px"/>
 </p>
 
+<h1 align="center">
+  <span class="typed-text">Hi, I'm Naveen...!</span>
+</h1>
+
+<style>
+.typed-text {
+  display: inline-block;
+  font-family: 'Courier New', monospace;
+  font-size: 32px;
+  font-weight: 600;
+  color: #00bcd4;
+  white-space: nowrap;
+  border-right: 3px solid #00bcd4;
+  width: 0;
+  overflow: hidden;
+  animation: typing 3s steps(20, end), blink 0.7s step-end infinite alternate;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 16ch } /* Adjust ch to match character count */
+}
+
+@keyframes blink {
+  50% { border-color: transparent }
+}
+</style>
+
+
 
 ---
 
