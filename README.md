@@ -8,33 +8,46 @@
   <img src="./assets/hi.gif" width="400px" height = "250px"/>
 </p>
 
+
+
 <h1 align="center">
-  <span class="typed-text">Hi, I'm Naveen...!</span>
+  <span id="typed-text"></span>
 </h1>
 
+<script>
+  const text = "Hi, I'm Naveen...!";
+  const speed = 100; // typing speed in ms
+  let i = 0;
+
+  function typeWriter() {
+    if (i < text.length) {
+      document.getElementById("typed-text").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, speed);
+    }
+  }
+
+  // Trigger animation when page loads
+  window.onload = typeWriter;
+</script>
+
 <style>
-.typed-text {
+#typed-text {
   display: inline-block;
   font-family: 'Courier New', monospace;
   font-size: 32px;
   font-weight: 600;
   color: #00bcd4;
-  white-space: nowrap;
   border-right: 3px solid #00bcd4;
-  width: 0;
-  overflow: hidden;
-  animation: typing 3s steps(20, end), blink 0.7s step-end infinite alternate;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 16ch } /* Adjust ch to match character count */
+  padding-right: 5px;
+  animation: blink 0.7s step-end infinite alternate;
 }
 
 @keyframes blink {
-  50% { border-color: transparent }
+  50% { border-color: transparent; }
 }
 </style>
+
 
 
 
