@@ -10,43 +10,6 @@
 
 
 
-<h1 align="center">
-  <span id="typed-text"></span>
-</h1>
-
-<script>
-  const text = "Hi, I'm Naveen...!";
-  const speed = 100; // typing speed in ms
-  let i = 0;
-
-  function typeWriter() {
-    if (i < text.length) {
-      document.getElementById("typed-text").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
-
-  // Trigger animation when page loads
-  window.onload = typeWriter;
-</script>
-
-<style>
-#typed-text {
-  display: inline-block;
-  font-family: 'Courier New', monospace;
-  font-size: 32px;
-  font-weight: 600;
-  color: #00bcd4;
-  border-right: 3px solid #00bcd4;
-  padding-right: 5px;
-  animation: blink 0.7s step-end infinite alternate;
-}
-
-@keyframes blink {
-  50% { border-color: transparent; }
-}
-</style>
 
 
 
