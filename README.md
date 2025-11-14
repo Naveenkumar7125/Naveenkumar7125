@@ -12,7 +12,7 @@
 
 ## About Me
 
-- 🎓 **Grand Finalist** at **Smart India Hackathon 2024 (SIH'24)**.
+- 🎓 **Grand Finalist** at **2x Smart India Hackathon 2024 (SIH'24,25)**.
 - 💻 Skilled in both frontend and backend development. 
 - 💡 Solved over **630+ problems** on **LeetCode**.  
 - ✨ Actively participated in hackathons and coding competitions, excelling in team collaboration and innovation.  
