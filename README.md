@@ -130,7 +130,7 @@
    - 🚀 This project integrates AI and web technologies to enhance criminal detection efficiency.
 
 ### 2. **Online Polling System** 
-   - **Tech Stack:** MERN Stack  
+   - **Tech Stack:** MERN Stack  ...
    - 🗳️ A secure and scalable online polling platform.
 
 ### 3. **Online Cinema Ticket Booking** 
