@@ -1,105 +1,106 @@
-
-
-<p align="center">
+<div align="center">
   <img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/TextStudio-Typewriter (2).gif" />
-</p>
+  <br>
+  <img src="./assets/hi.gif" width="350px" />
 
-<p align="center">
-  <img src="./assets/hi.gif" width="400px" height = "250px"/>
-</p>
+  <h3><b>Code • Innovate • Build Impact</b></h3>
+  <p>
+    <b>Backend-Focused Full-Stack Developer | Competitive Programmer | AI Enthusiast</b><br>
+    Final-year Computer Science and Engineering student at Nandha Engineering College (CGPA: 8.7). Passionate about architecting scalable backend systems and developing impactful ML-integrated web applications.
+  </p>
 
----
-
-## About Me
-
-- 🎓 **Grand Finalist** at **2x Smart India Hackathon 2024 (SIH'24,25)**...
-- 💻 Skilled in both frontend and backend development. 
-- 💡 Solved over **750+ problems** on **LeetCode**.  
-- ✨ Actively participated in hackathons and coding competitions, excelling in team collaboration and innovation.  
-- 📚 Passionate about learning and applying the latest tech trends in development and AI.  
-- 📱 Enthusiastic about developing scalable and innovative solutions to real-world challenges.  
-- 🌐 Strong presence on LinkedIn with **2K+ followers**
+  <p align="center">
+    <a href="https://www.linkedin.com/in/naveenkumar-t-683306320/"><img src="https://img.shields.io/badge/LinkedIn-2K%2B%20Followers-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:naveenkumart906@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://leetcode.com/u/Naveenkumar7125/"><img src="https://img.shields.io/badge/LeetCode-750%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  </p>
+</div>
 
 ---
 
-## 🔧 Tech Skills
+## 👨‍💻 About Me
+
+- 🎓 **2x Grand Finalist** at the **Smart India Hackathon (SIH 2024 & 2025)**.
+- 💻 Specialized in backend-focused full-stack development, leveraging **Node.js, Express, MongoDB, REST APIs, and WebSockets**.
+- 💡 Avid competitive coder with over **750+ algorithmic problems** solved on platforms like LeetCode and GeeksforGeeks.
+- 🚀 Focused on building technology products that solve real-world problems, from scalable web platforms to AI-driven analysis tools.
+- 📍 Based in Erode, Tamil Nadu, India.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 | 💻 Languages | 🌐 Web & Mobile | ⚙️ Backend & DB | 🤖 AI & Data | 🛠️ Tools |
 | :---: | :---: | :---: | :---: | :---: |
-| <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" /><br>C</a> | <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" /><br>HTML5</a> | <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" /><br>Node.js</a> | <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" /><br>Python</a> | <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" /><br>Git</a> |
-| <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" /><br>C++</a> | <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" /><br>CSS3</a> | <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Express</a> | <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" /><br>TensorFlow</a> | <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" /><br>Postman</a> |
-| <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" /><br>Java</a> | <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" /><br>React</a> | <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Flask</a> | <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" /><br>PyTorch</a> | <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50" /><br>Heroku</a> |
-| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" /><br>JavaScript</a> | <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="50" /><br>React Native</a> | <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" /><br>MongoDB</a> | <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Scikit-Learn</a> | <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" /><br>Figma</a> |
-| <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" /><br>TypeScript</a> | <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" /><br>Android</a> | <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" /><br>MySQL</a> | <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Pandas</a> | <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50" /><br>Photoshop</a> |
-| | <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" /><br>Bootstrap</a> | <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" /><br>Oracle</a> | <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>OpenCV</a> | |
-| | <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /><br>Tailwind</a> | <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" /><br>Firebase</a> | <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Matlab</a> | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" /><br>C | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /><br>HTML5 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /><br>Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /><br>Python | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /><br>Git |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /><br>C++ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /><br>CSS3 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Express | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" /><br>TensorFlow | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /><br>Postman |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /><br>Java | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /><br>React | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Flask | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" /><br>PyTorch | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" /><br>Figma |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript | <img src="https://reactnative.dev/img/header_logo.svg" width="40" /><br>React Native | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" /><br>MongoDB | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Scikit-Learn | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" /><br>Photoshop |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /><br>TypeScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" /><br>Android | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /><br>MySQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Pandas | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" /><br>Firebase |
 
 </div>
 
+---
+
+## 🚀 Featured Projects
+
+### 1. 🕵️‍♂️ Smart Criminal Detection *(In Progress)*
+- **Tech Stack:** Python, MERN Stack (MongoDB, Express, React, Node.js), Cloudinary.
+- **Description:** An ML-based video analysis system designed for CCTV streams and uploaded videos. It processes feeds to generate intelligent summaries and triggers real-time notifications, significantly enhancing surveillance efficiency and response times.
+
+### 2. 🗳️ Secure Online Polling System
+- **Tech Stack:** MERN Stack, JWT Authentication.
+- **Description:** A highly secure and scalable platform for conducting digital polls, featuring real-time vote tracking, user authentication, and an intuitive administrative dashboard.
+
+### 3. 🎟️ Cinema Ticket Booking Portal
+- **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL.
+- **Description:** A robust web application for seamless movie ticket reservations, implementing dynamic seat selection, real-time availability checking, and secure database management.
 
 ---
 
-## 📂 Projects...
+## 📈 Stats & Activity
 
-### 1. **Smart Criminal Detection**  (In Progress)
-   - **Tech Stack:** Python, MERN Stack, Cloudinary  
-   - 🚀 This project integrates AI and web technologies to enhance criminal detection efficiency.
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Naveenkumar7125?theme=chartreuse&font=Sora&ext=heatmap" alt="LeetCode Stats" width="600" />
+</div>
 
-### 2. **Online Polling System** 
-   - **Tech Stack:** MERN Stack  ...
-   - 🗳️ A secure and scalable online polling platform.
+<br>
 
-### 3. **Online Cinema Ticket Booking** 
-   - **Tech Stack:** HTML, CSS, JavaScript, PHP, SQL  
-   - 🎥 Seamlessly book your movie tickets online with this robust system.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar7125&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar7125&show_icons=true&locale=en&layout=compact&theme=merko&hide_border=true" alt="Top Languages" height="195" />
+</div>
 
----
+<br>
 
-## 📊 LeetCode Stats
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar7125&theme=react-dark&hide_border=true&color=ffb000&line=00e7ff&point=ffb000&area=true" alt="Contribution Graph" width="850" />
+</div>
 
+<br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Naveenkumar7125?theme=chartreuse&font=Sora&ext=heatmap)
-
----
-
-
-## 🐍 Contribution Snake Game
-
-![GitHub Snake Light](https://github.com/Naveenkumar7125/Naveenkumar7125/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/Naveenkumar7125/Naveenkumar7125/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="850" />
+</div>
 
 ---
 
-## 🔄 GitHub Stats
+## 🏆 Profile Badges
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar7125&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Naveenkumar7125's GitHub Stats" />
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=naveenkumar7125&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
 
-### GitHub Contribution Activity
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar7125&theme=react-dark&hide_border=true&color=ffb000&line=00e7ff&point=ffb000&area=true)
+<br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=naveenkumar7125&label=Profile%20views&color=00e7ff&style=for-the-badge" alt="Profile Views" />
+</div>
 
----
-
-Feel free to explore the repository and discuss solutions!
-
-## 📫 Connect With Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-2K%2B%20Followers-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveenkumar-t-683306320/)  
-- [![Email](https://img.shields.io/badge/Email-naveenkumart906%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:naveenkumart906@gmail.com)  
-- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Naveenkumar7125/)  
-
----
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumar7125&label=Profile%20views&color=111111&style=flat" alt="naveenkumar7125" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumar7125" alt="naveenkumar7125" /></a> </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar7125&show_icons=true&locale=en&layout=compact" alt="naveenkumar7125" /></p>
-
----
-
-Let's connect, collaborate, and create the future together! 😊
+<div align="center">
+  <i>Let's connect, collaborate, and create the future together! 😊</i>
+</div>
