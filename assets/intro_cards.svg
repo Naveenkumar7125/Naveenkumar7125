@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 270" width="850" height="270">
+  <defs>
+    <!-- Fonts -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;family=Outfit:wght@600;800&amp;display=swap');
+
+      .font-title {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 800;
+      }
+      .font-desc {
+        font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 500;
+      }
+
+      /* Hover and Float Animations */
+      .card-group {
+        transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), filter 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+      }
+      
+      .card-group:hover {
+        transform: translateY(-6px);
+        filter: drop-shadow(0 10px 20px rgba(0, 231, 255, 0.15));
+      }
+
+      .card-group-2:hover {
+        transform: translateY(-6px);
+        filter: drop-shadow(0 10px 20px rgba(123, 97, 255, 0.15));
+      }
+
+      .card-group-3:hover {
+        transform: translateY(-6px);
+        filter: drop-shadow(0 10px 20px rgba(255, 176, 0, 0.15));
+      }
+
+      /* Subtle pulsing glow for borders */
+      @keyframes border-pulse {
+        0%, 100% { stroke-opacity: 0.4; }
+        50% { stroke-opacity: 0.9; }
+      }
+
+      .pulse-border-1 { animation: border-pulse 3s infinite alternate; }
+      .pulse-border-2 { animation: border-pulse 3.5s infinite alternate; }
+      .pulse-border-3 { animation: border-pulse 4s infinite alternate; }
+
+      /* Floating Icon Animation */
+      @keyframes float-icon {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-4px); }
+      }
+      
+      .icon-float {
+        animation: float-icon 3s infinite ease-in-out;
+      }
+    </style>
+
+    <!-- Gradients -->
+    <linearGradient id="cyan-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E7FF" />
+      <stop offset="100%" stop-color="#7B61FF" />
+    </linearGradient>
+    <linearGradient id="purple-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7B61FF" />
+      <stop offset="100%" stop-color="#FFB000" />
+    </linearGradient>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB000" />
+      <stop offset="100%" stop-color="#00E7FF" />
+    </linearGradient>
+
+    <!-- Borders -->
+    <linearGradient id="border-cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E7FF" />
+      <stop offset="100%" stop-color="rgba(123, 97, 255, 0.2)" />
+    </linearGradient>
+    <linearGradient id="border-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7B61FF" />
+      <stop offset="100%" stop-color="rgba(255, 176, 0, 0.2)" />
+    </linearGradient>
+    <linearGradient id="border-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB000" />
+      <stop offset="100%" stop-color="rgba(0, 231, 255, 0.2)" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Base (Transparent to fit github markdown profile page background) -->
+  <rect width="100%" height="100%" fill="none"/>
+
+  <!-- Row 1 -->
+
+  <!-- Card 1: Backend Engineer (Cyan) -->
+  <g class="card-group" transform="translate(15, 15)">
+    <rect width="260" height="110" rx="15" fill="#06091F" stroke="url(#border-cyan)" stroke-width="1.5" class="pulse-border-1" />
+    <!-- Gradient indicator strip -->
+    <path d="M 0 30 L 0 80" stroke="#00E7FF" stroke-width="4" stroke-linecap="round" />
+    <!-- Icon -->
+    <g class="icon-float" style="animation-delay: 0s;">
+      <circle cx="45" cy="40" r="18" fill="rgba(0, 231, 255, 0.1)" />
+      <text x="45" y="46" font-size="18" text-anchor="middle">🚀</text>
+    </g>
+    <!-- Content -->
+    <text class="font-title" x="78" y="40" fill="#FFFFFF" font-size="15">Backend Architect</text>
+    <text class="font-desc" x="78" y="62" fill="#A5B4FC" font-size="11" opacity="0.85">Node.js, Express, REST APIs</text>
+    <text class="font-desc" x="78" y="78" fill="#A5B4FC" font-size="11" opacity="0.85">Scalable database models</text>
+  </g>
+
+  <!-- Card 2: Competitive Programmer (Purple) -->
+  <g class="card-group card-group-2" transform="translate(295, 15)">
+    <rect width="260" height="110" rx="15" fill="#06091F" stroke="url(#border-purple)" stroke-width="1.5" class="pulse-border-2" />
+    <path d="M 0 30 L 0 80" stroke="#7B61FF" stroke-width="4" stroke-linecap="round" />
+    <g class="icon-float" style="animation-delay: 0.5s;">
+      <circle cx="45" cy="40" r="18" fill="rgba(123, 97, 255, 0.1)" />
+      <text x="45" y="46" font-size="18" text-anchor="middle">⚡</text>
+    </g>
+    <text class="font-title" x="78" y="40" fill="#FFFFFF" font-size="15">CP &amp; Algorithms</text>
+    <text class="font-desc" x="78" y="62" fill="#A5B4FC" font-size="11" opacity="0.85">750+ solved on LeetCode</text>
+    <text class="font-desc" x="78" y="78" fill="#A5B4FC" font-size="11" opacity="0.85">Java, C++ optimization</text>
+  </g>
+
+  <!-- Card 3: AI Enthusiast (Gold) -->
+  <g class="card-group card-group-3" transform="translate(575, 15)">
+    <rect width="260" height="110" rx="15" fill="#06091F" stroke="url(#border-gold)" stroke-width="1.5" class="pulse-border-3" />
+    <path d="M 0 30 L 0 80" stroke="#FFB000" stroke-width="4" stroke-linecap="round" />
+    <g class="icon-float" style="animation-delay: 1s;">
+      <circle cx="45" cy="40" r="18" fill="rgba(255, 176, 0, 0.1)" />
+      <text x="45" y="46" font-size="18" text-anchor="middle">🤖</text>
+    </g>
+    <text class="font-title" x="78" y="40" fill="#FFFFFF" font-size="15">AI Enthusiast</text>
+    <text class="font-desc" x="78" y="62" fill="#A5B4FC" font-size="11" opacity="0.85">TensorFlow, PyTorch, ML</text>
+    <text class="font-desc" x="78" y="78" fill="#A5B4FC" font-size="11" opacity="0.85">Intelligent computer vision</text>
+  </g>
+
+  <!-- Row 2 -->
+
+  <!-- Card 4: Problem Solver (Cyan) -->
+  <g class="card-group" transform="translate(15, 145)">
+    <rect width="260" height="110" rx="15" fill="#06091F" stroke="url(#border-cyan)" stroke-width="1.5" class="pulse-border-1" />
+    <path d="M 0 30 L 0 80" stroke="#00E7FF" stroke-width="4" stroke-linecap="round" />
+    <g class="icon-float" style="animation-delay: 1.5s;">
+      <circle cx="45" cy="40" r="18" fill="rgba(0, 231, 255, 0.1)" />
+      <text x="45" y="46" font-size="18" text-anchor="middle">🧠</text>
+    </g>
+    <text class="font-title" x="78" y="40" fill="#FFFFFF" font-size="15">Problem Solver</text>
+    <text class="font-desc" x="78" y="62" fill="#A5B4FC" font-size="11" opacity="0.85">Data structures specialist</text>
+    <text class="font-desc" x="78" y="78" fill="#A5B4FC" font-size="11" opacity="0.85">2x Hackathon Grand Finalist</text>
+  </g>
+
+  <!-- Card 5: Cloud Explorer (Purple) -->
+  <g class="card-group card-group-2" transform="translate(295, 145)">
+    <rect width="260" height="110" rx="15" fill="#06091F" stroke="url(#border-purple)" stroke-width="1.5" class="pulse-border-2" />
+    <path d="M 0 30 L 0 80" stroke="#7B61FF" stroke-width="4" stroke-linecap="round" />
+    <g class="icon-float" style="animation-delay: 2s;">
+      <circle cx="45" cy="40" r="18" fill="rgba(123, 97, 255, 0.1)" />
+      <text x="45" y="46" font-size="18" text-anchor="middle">☁️</text>
+    </g>
+    <text class="font-title" x="78" y="40" fill="#FFFFFF" font-size="15">Cloud Explorer</text>
+    <text class="font-desc" x="78" y="62" fill="#A5B4FC" font-size="11" opacity="0.85">Firebase integrations, PHP</text>
+    <text class="font-desc" x="78" y="78" fill="#A5B4FC" font-size="11" opacity="0.85">REST API deployments</text>
+  </g>
+
+  <!-- Card 6: Continuous Learner (Gold) -->
+  <g class="card-group card-group-3" transform="translate(575, 145)">
+    <rect width="260" height="110" rx="15" fill="#06091F" stroke="url(#border-gold)" stroke-width="1.5" class="pulse-border-3" />
+    <path d="M 0 30 L 0 80" stroke="#FFB000" stroke-width="4" stroke-linecap="round" />
+    <g class="icon-float" style="animation-delay: 2.5s;">
+      <circle cx="45" cy="40" r="18" fill="rgba(255, 176, 0, 0.1)" />
+      <text x="45" y="46" font-size="18" text-anchor="middle">📈</text>
+    </g>
+    <text class="font-title" x="78" y="40" fill="#FFFFFF" font-size="15">Always Evolving</text>
+    <text class="font-desc" x="78" y="62" fill="#A5B4FC" font-size="11" opacity="0.85">Exploring microservices</text>
+    <text class="font-desc" x="78" y="78" fill="#A5B4FC" font-size="11" opacity="0.85">System design &amp; WebSockets</text>
+  </g>
+</svg>

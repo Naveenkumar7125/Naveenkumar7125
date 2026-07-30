@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 20" width="850" height="20">
+  <defs>
+    <linearGradient id="div-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(0, 231, 255, 0)" />
+      <stop offset="30%" stop-color="#00E7FF" />
+      <stop offset="50%" stop-color="#7B61FF" />
+      <stop offset="70%" stop-color="#FFB000" />
+      <stop offset="100%" stop-color="rgba(255, 176, 0, 0)" />
+    </linearGradient>
+
+    <style type="text/css">
+      @keyframes pulse-dot {
+        0%, 100% { transform: scale(1); filter: drop-shadow(0 0 2px #7B61FF); }
+        50% { transform: scale(1.3); filter: drop-shadow(0 0 8px #00E7FF); }
+      }
+      .glow-dot {
+        transform-origin: 425px 10px;
+        animation: pulse-dot 3s infinite ease-in-out;
+      }
+    </style>
+  </defs>
+  <line x1="25" y1="10" x2="825" y2="10" stroke="url(#div-grad)" stroke-width="2" stroke-linecap="round" opacity="0.8" />
+  <!-- Small glowing center node -->
+  <circle cx="425" cy="10" r="4.5" fill="#7B61FF" stroke="#FFFFFF" stroke-width="1.5" class="glow-dot" />
+</svg>

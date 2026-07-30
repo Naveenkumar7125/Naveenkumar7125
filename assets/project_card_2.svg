@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 180" width="850" height="180">
+  <defs>
+    <!-- Fonts -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;family=Outfit:wght@700;900&amp;display=swap');
+
+      .font-title {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 900;
+        font-size: 18px;
+        fill: #FFFFFF;
+        letter-spacing: 1px;
+      }
+      .font-tech {
+        font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 700;
+        font-size: 11px;
+        fill: #7B61FF;
+      }
+      .font-desc {
+        font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 500;
+        font-size: 12px;
+        fill: #A5B4FC;
+      }
+      .font-badge {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 700;
+        font-size: 9px;
+        fill: #00FF9D;
+        letter-spacing: 1px;
+      }
+
+      /* Hover Effects */
+      .card-container {
+        transition: transform 0.3s ease, filter 0.3s ease;
+      }
+      .card-container:hover {
+        transform: translateY(-4px);
+        filter: drop-shadow(0 8px 20px rgba(123, 97, 255, 0.12));
+      }
+
+      /* Glowing connection rings */
+      @keyframes float-ball {
+        0%, 100% { transform: translateY(0) scale(1); }
+        50% { transform: translateY(-5px) scale(1.05); }
+      }
+      .lock-module {
+        animation: float-ball 3.5s infinite ease-in-out;
+      }
+
+      @keyframes ring-spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      .spin-ring {
+        animation: ring-spin 12s infinite linear;
+        transform-origin: 65px 65px;
+      }
+    </style>
+
+    <!-- Gradients -->
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06091F" />
+      <stop offset="100%" stop-color="#02040A" />
+    </linearGradient>
+
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7B61FF" />
+      <stop offset="100%" stop-color="#00FF9D" />
+    </linearGradient>
+
+    <radialGradient id="ambience" cx="20%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="rgba(123, 97, 255, 0.15)" />
+      <stop offset="100%" stop-color="rgba(5, 8, 22, 0)" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background (None for Transparency) -->
+  <rect width="100%" height="100%" fill="none"/>
+
+  <!-- Card Group -->
+  <g class="card-container" transform="translate(10, 10)">
+    <!-- Base Card Graphic -->
+    <rect width="830" height="160" rx="15" fill="url(#card-grad)" stroke="url(#border-grad)" stroke-width="1.2" opacity="0.95" />
+    <rect width="830" height="160" rx="15" fill="url(#ambience)" />
+
+    <!-- Left Visual Panel: Security / Lock Cryptography Visualizer -->
+    <g transform="translate(15, 15)">
+      <!-- Visual container boundary -->
+      <rect width="130" height="130" rx="10" fill="#030512" stroke="rgba(0, 255, 157, 0.2)" stroke-width="1" />
+      <!-- Grid -->
+      <path d="M 0 32.5 L 130 32.5 M 0 65 L 130 65 M 0 97.5 L 130 97.5 M 32.5 0 L 32.5 130 M 65 0 L 65 130 M 97.5 0 L 97.5 130" stroke="rgba(0, 255, 157, 0.05)" stroke-width="1" />
+      
+      <!-- Lock Base & Ring Graphic -->
+      <g class="lock-module">
+        <!-- Cryptographic Ring -->
+        <circle cx="65" cy="65" r="35" fill="none" stroke="rgba(123, 97, 255, 0.2)" stroke-width="1.5" stroke-dasharray="8,6" class="spin-ring" />
+        
+        <!-- Padlock Body -->
+        <rect x="50" y="60" width="30" height="24" rx="4" fill="none" stroke="#00FF9D" stroke-width="2" />
+        <!-- Keyhole -->
+        <circle cx="65" cy="70" r="2.5" fill="#00FF9D" />
+        <line x1="65" y1="72.5" x2="65" y2="78" stroke="#00FF9D" stroke-width="2" />
+        <!-- Padlock Shackle -->
+        <path d="M 56 60 L 56 50 C 56 42, 74 42, 74 50 L 74 60" fill="none" stroke="#7B61FF" stroke-width="2" />
+      </g>
+      
+      <!-- Ambient connections -->
+      <circle cx="25" cy="30" r="2" fill="#00FF9D" opacity="0.6"/>
+      <circle cx="105" cy="40" r="2.5" fill="#7B61FF" opacity="0.8"/>
+      <circle cx="35" cy="100" r="1.5" fill="#7B61FF" opacity="0.5"/>
+      <circle cx="95" cy="105" r="2" fill="#00FF9D" opacity="0.7"/>
+      
+      <path d="M 25 30 L 56 50 M 105 40 L 74 50 M 35 100 L 50 84 M 95 105 L 80 84" stroke="rgba(255,255,255,0.1)" stroke-width="0.8" />
+    </g>
+
+    <!-- Right Content Panel -->
+    <g transform="translate(165, 20)">
+      <!-- Title -->
+      <text class="font-title" x="0" y="22">🗳️ SECURE ONLINE POLLING SYSTEM</text>
+      
+      <!-- Badges -->
+      <g transform="translate(365, 6)">
+        <!-- Status Badge -->
+        <rect x="0" y="0" width="90" height="20" rx="10" fill="rgba(0, 255, 157, 0.1)" stroke="#00FF9D" stroke-width="1" />
+        <circle cx="10" cy="10" r="3" fill="#00FF9D">
+          <animate attributeName="opacity" values="1; 0.4; 1" dur="1.5s" repeatCount="indefinite" />
+        </circle>
+        <text class="font-badge" x="20" y="13" fill="#00FF9D">COMPLETED</text>
+
+        <!-- Tech Badge -->
+        <rect x="100" y="0" width="75" height="20" rx="10" fill="rgba(123, 97, 255, 0.1)" stroke="#7B61FF" stroke-width="1" />
+        <text class="font-badge" x="110" y="13" fill="#7B61FF">JWT + MERN</text>
+      </g>
+
+      <!-- Description -->
+      <text class="font-desc" x="0" y="55">
+        A highly secure digital polling portal designed to aggregate votes with high integrity.
+      </text>
+      <text class="font-desc" x="0" y="73">
+        Features JWT-based user session authentication, real-time vote trackers, and admin panel controls.
+      </text>
+
+      <!-- Tech Stack Badges -->
+      <g transform="translate(0, 95)">
+        <!-- Node.js -->
+        <rect x="0" y="5" width="70" height="22" rx="6" fill="#0D1B2A" stroke="rgba(123, 97, 255, 0.2)" stroke-width="1"/>
+        <text class="font-tech" x="35" y="20" text-anchor="middle">Node.js</text>
+
+        <!-- Express -->
+        <rect x="80" y="5" width="75" height="22" rx="6" fill="#0D1B2A" stroke="rgba(123, 97, 255, 0.2)" stroke-width="1"/>
+        <text class="font-tech" x="117.5" y="20" text-anchor="middle">Express</text>
+
+        <!-- React -->
+        <rect x="165" y="5" width="65" height="22" rx="6" fill="#0D1B2A" stroke="rgba(123, 97, 255, 0.2)" stroke-width="1"/>
+        <text class="font-tech" x="197.5" y="20" text-anchor="middle">React</text>
+
+        <!-- MongoDB -->
+        <rect x="240" y="5" width="75" height="22" rx="6" fill="#0D1B2A" stroke="rgba(0, 255, 157, 0.2)" stroke-width="1"/>
+        <text class="font-tech" x="277.5" y="20" fill="#00FF9D" text-anchor="middle">MongoDB</text>
+
+        <!-- JWT Auth -->
+        <rect x="325" y="5" width="85" height="22" rx="6" fill="#0D1B2A" stroke="rgba(0, 255, 157, 0.2)" stroke-width="1"/>
+        <text class="font-tech" x="367.5" y="20" fill="#00FF9D" text-anchor="middle">JWT Auth</text>
+      </g>
+    </g>
+
+    <!-- Corner styling for cyber vibes -->
+    <path d="M 815 15 L 815 25 M 815 15 L 805 15" stroke="#7B61FF" stroke-width="1.5" fill="none" />
+    <path d="M 815 145 L 815 135 M 815 145 L 805 145" stroke="#00FF9D" stroke-width="1.5" fill="none" />
+  </g>
+</svg>

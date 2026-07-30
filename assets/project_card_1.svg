@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 180" width="850" height="180">
+  <defs>
+    <!-- Fonts -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;family=Outfit:wght@700;900&amp;display=swap');
+
+      .font-title {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 900;
+        font-size: 18px;
+        fill: #FFFFFF;
+        letter-spacing: 1px;
+      }
+      .font-tech {
+        font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 700;
+        font-size: 11px;
+        fill: #00E7FF;
+      }
+      .font-desc {
+        font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 500;
+        font-size: 12px;
+        fill: #A5B4FC;
+      }
+      .font-badge {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 700;
+        font-size: 9px;
+        fill: #FFB000;
+        letter-spacing: 1px;
+      }
+
+      /* Hover Effects */
+      .card-container {
+        transition: transform 0.3s ease, filter 0.3s ease;
+      }
+      .card-container:hover {
+        transform: translateY(-4px);
+        filter: drop-shadow(0 8px 20px rgba(0, 231, 255, 0.12));
+      }
+
+      /* AI Scan Line Animation */
+      @keyframes scan-y {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(110px); }
+      }
+      .scan-line {
+        animation: scan-y 4s infinite ease-in-out;
+        stroke: #FF0055;
+        stroke-width: 1.5;
+        opacity: 0.8;
+      }
+
+      /* Pulsing target */
+      @keyframes pulse-target {
+        0%, 100% { r: 15; opacity: 0.4; }
+        50% { r: 25; opacity: 0.1; }
+      }
+      .target-glow {
+        animation: pulse-target 2s infinite ease-in-out;
+        fill: none;
+        stroke: #00E7FF;
+        stroke-width: 1.5;
+      }
+    </style>
+
+    <!-- Gradients -->
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06091F" />
+      <stop offset="100%" stop-color="#02040A" />
+    </linearGradient>
+
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF0055" />
+      <stop offset="100%" stop-color="#00E7FF" />
+    </linearGradient>
+
+    <radialGradient id="ambience" cx="20%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="rgba(0, 231, 255, 0.15)" />
+      <stop offset="100%" stop-color="rgba(5, 8, 22, 0)" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background (None for Transparency) -->
+  <rect width="100%" height="100%" fill="none"/>
+
+  <!-- Card Group -->
+  <g class="card-container" transform="translate(10, 10)">
+    <!-- Base Card Graphic -->
+    <rect width="830" height="160" rx="15" fill="url(#card-grad)" stroke="url(#border-grad)" stroke-width="1.2" opacity="0.95" />
+    <rect width="830" height="160" rx="15" fill="url(#ambience)" />
+
+    <!-- Left Visual Panel: Surveillance/AI Visualizer -->
+    <g transform="translate(15, 15)">
+      <!-- Visual container boundary -->
+      <rect width="130" height="130" rx="10" fill="#030512" stroke="rgba(123, 97, 255, 0.2)" stroke-width="1" />
+      <!-- Grid -->
+      <path d="M 0 32.5 L 130 32.5 M 0 65 L 130 65 M 0 97.5 L 130 97.5 M 32.5 0 L 32.5 130 M 65 0 L 65 130 M 97.5 0 L 97.5 130" stroke="rgba(123, 97, 255, 0.05)" stroke-width="1" />
+      
+      <!-- Target crosshair / Lens -->
+      <circle cx="65" cy="65" r="30" fill="none" stroke="rgba(0, 231, 255, 0.15)" stroke-width="1" />
+      <circle cx="65" cy="65" r="15" fill="none" stroke="rgba(0, 231, 255, 0.3)" stroke-width="1" />
+      <circle class="target-glow" cx="65" cy="65" />
+      
+      <!-- Crosshair lines -->
+      <path d="M 65 20 L 65 40 M 65 90 L 65 110 M 20 65 L 40 65 M 90 65 L 110 65" stroke="#00E7FF" stroke-width="1.2" opacity="0.6" />
+      
+      <!-- Scanning Laser -->
+      <line x1="0" y1="10" x2="130" y2="10" class="scan-line" />
+      
+      <!-- Floating target values -->
+      <text x="8" y="18" fill="#FF0055" font-family="monospace" font-size="8" opacity="0.8">SYS.ACTIVE</text>
+      <text x="8" y="122" fill="#00E7FF" font-family="monospace" font-size="8" opacity="0.8">DETECT.AI</text>
+    </g>
+
+    <!-- Right Content Panel -->
+    <g transform="translate(165, 20)">
+      <!-- Title -->
+      <text class="font-title" x="0" y="22">🕵️‍♂️ SMART CRIMINAL DETECTION</text>
+      
+      <!-- Badges -->
+      <g transform="translate(340, 6)">
+        <!-- Status Badge -->
+        <rect x="0" y="0" width="100" height="20" rx="10" fill="rgba(255, 176, 0, 0.1)" stroke="#FFB000" stroke-width="1" />
+        <circle cx="10" cy="10" r="3" fill="#FFB000">
+          <animate attributeName="opacity" values="1; 0.4; 1" dur="1.5s" repeatCount="indefinite" />
+        </circle>
+        <text class="font-badge" x="20" y="13" fill="#FFB000">IN PROGRESS</text>
+
+        <!-- Live Code Badge -->
+        <rect x="110" y="0" width="60" height="20" rx="10" fill="rgba(0, 231, 255, 0.1)" stroke="#00E7FF" stroke-width="1" />
+        <text class="font-badge" x="122" y="13" fill="#00E7FF">ML + MERN</text>
+      </g>
+
+      <!-- Description -->
+      <text class="font-desc" x="0" y="55">
+        Intelligent CCTV and video stream processing system powered by Computer Vision.
+      </text>
+      <text class="font-desc" x="0" y="73">
+        Processes security feeds to generate automated video summaries and triggers live alert updates.
+      </text>
+
+      <!-- Tech Stack Badges -->
+      <g transform="translate(0, 95)">
+        <!-- Python -->
+        <rect x="0" y="5" width="65" height="22" rx="6" fill="#0D1B2A" stroke="rgba(0, 231, 255, 0.2)" stroke-width="1"/>
+        <text class="font-tech" x="32.5" y="20" text-anchor="middle">Python</text>
+
+        <!-- OpenCV -->
+        <rect x="75" y="5" width="65" height="22" rx="6" fill="#0D1B2A" stroke="rgba(0, 231, 255, 0.2)" stroke-width="1"/>
+        <text class="font-tech" x="107.5" y="20" text-anchor="middle">OpenCV</text>
+
+        <!-- MERN -->
+        <rect x="150" y="5" width="80" height="22" rx="6" fill="#0D1B2A" stroke="rgba(0, 231, 255, 0.2)" stroke-width="1"/>
+        <text class="font-tech" x="190" y="20" text-anchor="middle">MERN Stack</text>
+
+        <!-- WebSockets -->
+        <rect x="240" y="5" width="85" height="22" rx="6" fill="#0D1B2A" stroke="rgba(123, 97, 255, 0.2)" stroke-width="1"/>
+        <text class="font-tech" x="282.5" y="20" fill="#7B61FF" text-anchor="middle">WebSockets</text>
+
+        <!-- Cloudinary -->
+        <rect x="335" y="5" width="85" height="22" rx="6" fill="#0D1B2A" stroke="rgba(123, 97, 255, 0.2)" stroke-width="1"/>
+        <text class="font-tech" x="377.5" y="20" fill="#7B61FF" text-anchor="middle">Cloudinary</text>
+      </g>
+    </g>
+
+    <!-- Corner styling for cyber vibes -->
+    <path d="M 815 15 L 815 25 M 815 15 L 805 15" stroke="#00E7FF" stroke-width="1.5" fill="none" />
+    <path d="M 815 145 L 815 135 M 815 145 L 805 145" stroke="#FF0055" stroke-width="1.5" fill="none" />
+  </g>
+</svg>

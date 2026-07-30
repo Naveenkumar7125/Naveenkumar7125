@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 140" width="850" height="140">
+  <defs>
+    <!-- Fonts -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&amp;family=Outfit:wght@800&amp;display=swap');
+
+      .font-cta {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 800;
+        font-size: 15px;
+        fill: #FFFFFF;
+        letter-spacing: 2px;
+      }
+      .font-quote {
+        font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 500;
+        font-size: 11px;
+        fill: #A5B4FC;
+        opacity: 0.7;
+      }
+
+      /* Wave animations */
+      @keyframes wave-slide {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-850px); }
+      }
+      .wave-1 {
+        animation: wave-slide 15s infinite linear;
+      }
+      .wave-2 {
+        animation: wave-slide 10s infinite linear;
+      }
+    </style>
+
+    <!-- Gradients -->
+    <linearGradient id="wave-grad-1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00E7FF" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#7B61FF" stop-opacity="0.01" />
+    </linearGradient>
+    <linearGradient id="wave-grad-2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7B61FF" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#FFB000" stop-opacity="0.01" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background (None for Transparency) -->
+  <rect width="100%" height="100%" fill="none"/>
+
+  <!-- Wave 1 (Back, Cyanish, slower) -->
+  <g transform="translate(0, 10)">
+    <path class="wave-1" d="M 0 50 Q 212.5 25, 425 50 T 850 50 T 1275 50 T 1700 50 L 1700 130 L 0 130 Z" fill="url(#wave-grad-1)" />
+  </g>
+
+  <!-- Wave 2 (Front, Purple, faster) -->
+  <g transform="translate(0, 15)">
+    <path class="wave-2" d="M 0 50 Q 212.5 75, 425 50 T 850 50 T 1275 50 T 1700 50 L 1700 130 L 0 130 Z" fill="url(#wave-grad-2)" />
+  </g>
+
+  <!-- Center Text Content -->
+  <g transform="translate(425, 100)" text-anchor="middle">
+    <!-- CTA -->
+    <text class="font-cta" x="0" y="0">LET'S BUILD THE FUTURE TOGETHER</text>
+    
+    <!-- Quote -->
+    <text class="font-quote" x="0" y="18">"The best way to predict the future is to invent it." — Alan Kay</text>
+  </g>
+</svg>

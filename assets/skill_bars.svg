@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="850" height="220">
+  <defs>
+    <!-- Fonts -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;family=Outfit:wght@600;800&amp;display=swap');
+
+      .font-label {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 600;
+        font-size: 13px;
+        fill: #FFFFFF;
+      }
+      .font-percent {
+        font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 700;
+        font-size: 13px;
+      }
+      
+      /* Glowing Tip Animation */
+      @keyframes tip-glow {
+        0%, 100% { filter: drop-shadow(0 0 2px rgba(0, 231, 255, 0.8)); }
+        50% { filter: drop-shadow(0 0 6px rgba(0, 231, 255, 1)) drop-shadow(0 0 10px rgba(0, 231, 255, 0.6)); }
+      }
+      @keyframes tip-glow-purple {
+        0%, 100% { filter: drop-shadow(0 0 2px rgba(123, 97, 255, 0.8)); }
+        50% { filter: drop-shadow(0 0 6px rgba(123, 97, 255, 1)) drop-shadow(0 0 10px rgba(123, 97, 255, 0.6)); }
+      }
+      @keyframes tip-glow-gold {
+        0%, 100% { filter: drop-shadow(0 0 2px rgba(255, 176, 0, 0.8)); }
+        50% { filter: drop-shadow(0 0 6px rgba(255, 176, 0, 1)) drop-shadow(0 0 10px rgba(255, 176, 0, 0.6)); }
+      }
+
+      .glow-c { animation: tip-glow 3s infinite ease-in-out; }
+      .glow-p { animation: tip-glow-purple 3.2s infinite ease-in-out; }
+      .glow-g { animation: tip-glow-gold 3.5s infinite ease-in-out; }
+    </style>
+
+    <!-- Gradients -->
+    <linearGradient id="cyan-purple-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E7FF" />
+      <stop offset="100%" stop-color="#7B61FF" />
+    </linearGradient>
+
+    <linearGradient id="purple-gold-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7B61FF" />
+      <stop offset="100%" stop-color="#FFB000" />
+    </linearGradient>
+
+    <linearGradient id="cyan-gold-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E7FF" />
+      <stop offset="100%" stop-color="#FFB000" />
+    </linearGradient>
+
+    <linearGradient id="gold-only-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFB000" />
+      <stop offset="100%" stop-color="#FFD270" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background (None for Transparency) -->
+  <rect width="100%" height="100%" fill="none"/>
+
+  <!-- ==================== COLUMN 1 (Left) ==================== -->
+
+  <!-- Skill 1: Node.js (95%) -->
+  <g transform="translate(25, 15)">
+    <!-- Label -->
+    <text class="font-label" x="0" y="15">Node.js Development</text>
+    <text class="font-percent" x="370" y="15" fill="#00E7FF" text-anchor="end">95%</text>
+    <!-- Background Bar -->
+    <rect x="0" y="24" width="370" height="7" rx="3.5" fill="#0E1230" stroke="rgba(255,255,255,0.05)" stroke-width="0.5"/>
+    <!-- Active Bar (with fill animation) -->
+    <rect x="0" y="24" height="7" rx="3.5" fill="url(#cyan-purple-grad)">
+      <animate attributeName="width" from="0" to="351.5" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </rect>
+    <!-- Glowing Tip -->
+    <circle cx="351.5" cy="27.5" r="4.5" fill="#FFFFFF" class="glow-c">
+      <animate attributeName="cx" from="0" to="351.5" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </circle>
+  </g>
+
+  <!-- Skill 2: Backend Architecture (95%) -->
+  <g transform="translate(25, 65)">
+    <text class="font-label" x="0" y="15">Backend Architecture &amp; APIs</text>
+    <text class="font-percent" x="370" y="15" fill="#7B61FF" text-anchor="end">95%</text>
+    <rect x="0" y="24" width="370" height="7" rx="3.5" fill="#0E1230" stroke="rgba(255,255,255,0.05)" stroke-width="0.5"/>
+    <rect x="0" y="24" height="7" rx="3.5" fill="url(#purple-gold-grad)">
+      <animate attributeName="width" from="0" to="351.5" dur="1.3s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </rect>
+    <circle cx="351.5" cy="27.5" r="4.5" fill="#FFFFFF" class="glow-p">
+      <animate attributeName="cx" from="0" to="351.5" dur="1.3s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </circle>
+  </g>
+
+  <!-- Skill 3: DSA (95%) -->
+  <g transform="translate(25, 115)">
+    <text class="font-label" x="0" y="15">Data Structures &amp; Algorithms</text>
+    <text class="font-percent" x="370" y="15" fill="#00E7FF" text-anchor="end">95%</text>
+    <rect x="0" y="24" width="370" height="7" rx="3.5" fill="#0E1230" stroke="rgba(255,255,255,0.05)" stroke-width="0.5"/>
+    <rect x="0" y="24" height="7" rx="3.5" fill="url(#cyan-gold-grad)">
+      <animate attributeName="width" from="0" to="351.5" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </rect>
+    <circle cx="351.5" cy="27.5" r="4.5" fill="#FFFFFF" class="glow-c">
+      <animate attributeName="cx" from="0" to="351.5" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </circle>
+  </g>
+
+  <!-- Skill 4: Java Development (92%) -->
+  <g transform="translate(25, 165)">
+    <text class="font-label" x="0" y="15">Java / C++ Programming</text>
+    <text class="font-percent" x="370" y="15" fill="#FFB000" text-anchor="end">92%</text>
+    <rect x="0" y="24" width="370" height="7" rx="3.5" fill="#0E1230" stroke="rgba(255,255,255,0.05)" stroke-width="0.5"/>
+    <rect x="0" y="24" height="7" rx="3.5" fill="url(#gold-only-grad)">
+      <animate attributeName="width" from="0" to="340.4" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </rect>
+    <circle cx="340.4" cy="27.5" r="4.5" fill="#FFFFFF" class="glow-g">
+      <animate attributeName="cx" from="0" to="340.4" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </circle>
+  </g>
+
+
+  <!-- ==================== COLUMN 2 (Right) ==================== -->
+
+  <!-- Skill 5: System Design (82%) -->
+  <g transform="translate(455, 15)">
+    <text class="font-label" x="0" y="15">System Design &amp; Scalability</text>
+    <text class="font-percent" x="370" y="15" fill="#7B61FF" text-anchor="end">82%</text>
+    <rect x="0" y="24" width="370" height="7" rx="3.5" fill="#0E1230" stroke="rgba(255,255,255,0.05)" stroke-width="0.5"/>
+    <rect x="0" y="24" height="7" rx="3.5" fill="url(#cyan-purple-grad)">
+      <animate attributeName="width" from="0" to="303.4" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </rect>
+    <circle cx="303.4" cy="27.5" r="4.5" fill="#FFFFFF" class="glow-p">
+      <animate attributeName="cx" from="0" to="303.4" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </circle>
+  </g>
+
+  <!-- Skill 6: React & Web Frontend (82%) -->
+  <g transform="translate(455, 65)">
+    <text class="font-label" x="0" y="15">React &amp; Responsive Web UI</text>
+    <text class="font-percent" x="370" y="15" fill="#00E7FF" text-anchor="end">82%</text>
+    <rect x="0" y="24" width="370" height="7" rx="3.5" fill="#0E1230" stroke="rgba(255,255,255,0.05)" stroke-width="0.5"/>
+    <rect x="0" y="24" height="7" rx="3.5" fill="url(#cyan-gold-grad)">
+      <animate attributeName="width" from="0" to="303.4" dur="1.3s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </rect>
+    <circle cx="303.4" cy="27.5" r="4.5" fill="#FFFFFF" class="glow-c">
+      <animate attributeName="cx" from="0" to="303.4" dur="1.3s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </circle>
+  </g>
+
+  <!-- Skill 7: AI & ML Integration (75%) -->
+  <g transform="translate(455, 115)">
+    <text class="font-label" x="0" y="15">AI &amp; Machine Learning (TensorFlow)</text>
+    <text class="font-percent" x="370" y="15" fill="#FFB000" text-anchor="end">75%</text>
+    <rect x="0" y="24" width="370" height="7" rx="3.5" fill="#0E1230" stroke="rgba(255,255,255,0.05)" stroke-width="0.5"/>
+    <rect x="0" y="24" height="7" rx="3.5" fill="url(#gold-only-grad)">
+      <animate attributeName="width" from="0" to="277.5" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </rect>
+    <circle cx="277.5" cy="27.5" r="4.5" fill="#FFFFFF" class="glow-g">
+      <animate attributeName="cx" from="0" to="277.5" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" />
+    </circle>
+  </g>
+</svg>

@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="850" height="360">
+  <defs>
+    <!-- Fonts -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;family=Outfit:wght@700;800&amp;display=swap');
+
+      .font-title {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 800;
+        font-size: 13.5px;
+        fill: #FFFFFF;
+        letter-spacing: 1px;
+      }
+      .font-label {
+        font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 500;
+        font-size: 9.5px;
+        fill: #A5B4FC;
+      }
+
+      /* Hover Effects */
+      .tech-card {
+        transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), filter 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      }
+      .tech-card:hover {
+        transform: translateY(-5px);
+        filter: drop-shadow(0 8px 20px rgba(0, 231, 255, 0.12));
+      }
+      .tech-card-purple:hover {
+        transform: translateY(-5px);
+        filter: drop-shadow(0 8px 20px rgba(123, 97, 255, 0.12));
+      }
+      .tech-card-gold:hover {
+        transform: translateY(-5px);
+        filter: drop-shadow(0 8px 20px rgba(255, 176, 0, 0.12));
+      }
+
+      /* Logo Hover Grow */
+      .logo-item {
+        transition: transform 0.2s ease-in-out;
+      }
+      .logo-item:hover {
+        transform: scale(1.15);
+      }
+    </style>
+
+    <!-- Border Gradients -->
+    <linearGradient id="cyan-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E7FF" />
+      <stop offset="100%" stop-color="rgba(123, 97, 255, 0.1)" />
+    </linearGradient>
+    <linearGradient id="purple-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7B61FF" />
+      <stop offset="100%" stop-color="rgba(255, 176, 0, 0.1)" />
+    </linearGradient>
+    <linearGradient id="gold-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB000" />
+      <stop offset="100%" stop-color="rgba(0, 231, 255, 0.1)" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background (None for transparency on GitHub) -->
+  <rect width="100%" height="100%" fill="none"/>
+
+  <!-- ==================== ROW 1 ==================== -->
+
+  <!-- Card 1: Languages (Cyan Border) -->
+  <g class="tech-card" transform="translate(15, 15)">
+    <!-- Base Card -->
+    <rect width="260" height="150" rx="12" fill="#06091F" stroke="url(#cyan-border)" stroke-width="1.2" />
+    <path d="M 0 20 L 0 50" stroke="#00E7FF" stroke-width="3" stroke-linecap="round" />
+    <!-- Title -->
+    <text class="font-title" x="20" y="30">💻 LANGUAGES</text>
+
+    <!-- Icons Grid -->
+    <!-- C -->
+    <g class="logo-item" transform="translate(30, 48)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">C</text>
+    </g>
+    <!-- C++ -->
+    <g class="logo-item" transform="translate(90, 48)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">C++</text>
+    </g>
+    <!-- Java -->
+    <g class="logo-item" transform="translate(150, 48)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">Java</text>
+    </g>
+    <!-- Python -->
+    <g class="logo-item" transform="translate(202, 48)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">Python</text>
+    </g>
+    <!-- JavaScript -->
+    <g class="logo-item" transform="translate(60, 96)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">JavaScript</text>
+    </g>
+    <!-- TypeScript -->
+    <g class="logo-item" transform="translate(140, 96)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">TypeScript</text>
+    </g>
+  </g>
+
+  <!-- Card 2: Web & Mobile (Purple Border) -->
+  <g class="tech-card tech-card-purple" transform="translate(295, 15)">
+    <rect width="260" height="150" rx="12" fill="#06091F" stroke="url(#purple-border)" stroke-width="1.2" />
+    <path d="M 0 20 L 0 50" stroke="#7B61FF" stroke-width="3" stroke-linecap="round" />
+    <text class="font-title" x="20" y="30">🌐 WEB &amp; MOBILE</text>
+
+    <!-- Icons Grid -->
+    <!-- HTML5 -->
+    <g class="logo-item" transform="translate(30, 48)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">HTML5</text>
+    </g>
+    <!-- CSS3 -->
+    <g class="logo-item" transform="translate(90, 48)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">CSS3</text>
+    </g>
+    <!-- React -->
+    <g class="logo-item" transform="translate(150, 48)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">React</text>
+    </g>
+    <!-- Android -->
+    <g class="logo-item" transform="translate(202, 48)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">Android</text>
+    </g>
+    <!-- React Native -->
+    <g class="logo-item" transform="translate(100, 96)">
+      <image href="https://reactnative.dev/img/header_logo.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">React Native</text>
+    </g>
+  </g>
+
+  <!-- Card 3: Backend & DB (Gold Border) -->
+  <g class="tech-card tech-card-gold" transform="translate(575, 15)">
+    <rect width="260" height="150" rx="12" fill="#06091F" stroke="url(#gold-border)" stroke-width="1.2" />
+    <path d="M 0 20 L 0 50" stroke="#FFB000" stroke-width="3" stroke-linecap="round" />
+    <text class="font-title" x="20" y="30">⚙️ BACKEND &amp; DB</text>
+
+    <!-- Icons Grid -->
+    <!-- Node.js -->
+    <g class="logo-item" transform="translate(20, 48)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">Node.js</text>
+    </g>
+    <!-- Express -->
+    <g class="logo-item" transform="translate(80, 48)">
+      <!-- Add a subtle rounded light bg for dark express logo visibility -->
+      <rect width="28" height="28" rx="4" fill="white" opacity="0.9" />
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="26" height="26" x="1" y="1" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">Express</text>
+    </g>
+    <!-- Flask -->
+    <g class="logo-item" transform="translate(140, 48)">
+      <rect width="28" height="28" rx="4" fill="white" opacity="0.9" />
+      <image href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="24" height="24" x="2" y="2" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">Flask</text>
+    </g>
+    <!-- MongoDB -->
+    <g class="logo-item" transform="translate(202, 48)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">MongoDB</text>
+    </g>
+    <!-- MySQL -->
+    <g class="logo-item" transform="translate(60, 96)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">MySQL</text>
+    </g>
+    <!-- Firebase -->
+    <g class="logo-item" transform="translate(140, 96)">
+      <image href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="28" height="28" />
+      <text class="font-label" x="14" y="40" text-anchor="middle">Firebase</text>
+    </g>
+  </g>
+
+  <!-- ==================== ROW 2 ==================== -->
+
+  <!-- Card 4: AI & Machine Learning (Cyan/Purple Border) -->
+  <g class="tech-card" transform="translate(15, 185)">
+    <rect width="390" height="150" rx="12" fill="#06091F" stroke="url(#cyan-border)" stroke-width="1.2" />
+    <path d="M 0 20 L 0 50" stroke="#00E7FF" stroke-width="3" stroke-linecap="round" />
+    <text class="font-title" x="20" y="30">🤖 ARTIFICIAL INTELLIGENCE &amp; DATA SCIENCE</text>
+
+    <!-- Icons Grid (Single row centered) -->
+    <!-- TensorFlow -->
+    <g class="logo-item" transform="translate(45, 52)">
+      <image href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" />
+      <text class="font-label" x="18" y="48" text-anchor="middle">TensorFlow</text>
+    </g>
+    <!-- PyTorch -->
+    <g class="logo-item" transform="translate(135, 52)">
+      <image href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36" />
+      <text class="font-label" x="18" y="48" text-anchor="middle">PyTorch</text>
+    </g>
+    <!-- Scikit-Learn -->
+    <g class="logo-item" transform="translate(225, 52)">
+      <rect width="36" height="36" rx="4" fill="white" opacity="0.9" />
+      <image href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="32" height="32" x="2" y="2" />
+      <text class="font-label" x="18" y="48" text-anchor="middle">Scikit-Learn</text>
+    </g>
+    <!-- Pandas -->
+    <g class="logo-item" transform="translate(305, 52)">
+      <rect width="36" height="36" rx="4" fill="white" opacity="0.9" />
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32" height="32" x="2" y="2" />
+      <text class="font-label" x="18" y="48" text-anchor="middle">Pandas</text>
+    </g>
+  </g>
+
+  <!-- Card 5: Tools & DevOps (Purple/Gold Border) -->
+  <g class="tech-card tech-card-purple" transform="translate(445, 185)">
+    <rect width="390" height="150" rx="12" fill="#06091F" stroke="url(#purple-border)" stroke-width="1.2" />
+    <path d="M 0 20 L 0 50" stroke="#7B61FF" stroke-width="3" stroke-linecap="round" />
+    <text class="font-title" x="20" y="30">🛠️ TOOLS &amp; CREATIVE SUITE</text>
+
+    <!-- Icons Grid -->
+    <!-- Git -->
+    <g class="logo-item" transform="translate(45, 52)">
+      <image href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" />
+      <text class="font-label" x="18" y="48" text-anchor="middle">Git</text>
+    </g>
+    <!-- Postman -->
+    <g class="logo-item" transform="translate(135, 52)">
+      <image href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" />
+      <text class="font-label" x="18" y="48" text-anchor="middle">Postman</text>
+    </g>
+    <!-- Figma -->
+    <g class="logo-item" transform="translate(225, 52)">
+      <image href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" height="36" />
+      <text class="font-label" x="18" y="48" text-anchor="middle">Figma</text>
+    </g>
+    <!-- Photoshop -->
+    <g class="logo-item" transform="translate(305, 52)">
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="36" height="36" />
+      <text class="font-label" x="18" y="48" text-anchor="middle">Photoshop</text>
+    </g>
+  </g>
+</svg>

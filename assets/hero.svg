@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 380" width="850" height="380">
+  <defs>
+    <!-- Fonts -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&amp;family=Outfit:wght@700;900&amp;display=swap');
+
+      .font-title {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-weight: 900;
+      }
+      .font-sub {
+        font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-weight: 500;
+      }
+
+      /* Animations */
+      @keyframes pulse-glow {
+        0%, 100% {
+          filter: drop-shadow(0 0 15px rgba(0, 231, 255, 0.6)) drop-shadow(0 0 30px rgba(123, 97, 255, 0.3));
+        }
+        50% {
+          filter: drop-shadow(0 0 25px rgba(0, 231, 255, 0.9)) drop-shadow(0 0 50px rgba(123, 97, 255, 0.6));
+        }
+      }
+
+      @keyframes wave {
+        0%, 100% { transform: rotate(0deg); }
+        20%, 60% { transform: rotate(-15deg); }
+        40%, 80% { transform: rotate(10deg); }
+      }
+
+      @keyframes float-particle-1 {
+        0%, 100% { transform: translate(0, 0); opacity: 0.3; }
+        50% { transform: translate(30px, -40px); opacity: 0.8; }
+      }
+      @keyframes float-particle-2 {
+        0%, 100% { transform: translate(0, 0); opacity: 0.2; }
+        50% { transform: translate(-40px, -30px); opacity: 0.6; }
+      }
+      @keyframes float-particle-3 {
+        0%, 100% { transform: translate(0, 0); opacity: 0.4; }
+        50% { transform: translate(25px, 30px); opacity: 0.9; }
+      }
+
+      @keyframes scanline {
+        0% { transform: translateY(-380px); }
+        100% { transform: translateY(380px); }
+      }
+
+      .waving {
+        animation: wave 2.5s infinite;
+        transform-origin: 395px 120px;
+      }
+
+      .glow-name {
+        animation: pulse-glow 4s infinite alternate;
+      }
+
+      .particle-1 { animation: float-particle-1 6s infinite ease-in-out; }
+      .particle-2 { animation: float-particle-2 8s infinite ease-in-out; }
+      .particle-3 { animation: float-particle-3 7s infinite ease-in-out; }
+    </style>
+
+    <!-- Background Cyber Grid -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(123, 97, 255, 0.12)" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.5" fill="rgba(0, 231, 255, 0.3)"/>
+    </pattern>
+
+    <!-- Gradients -->
+    <linearGradient id="cyber-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E7FF" />
+      <stop offset="50%" stop-color="#7B61FF" />
+      <stop offset="100%" stop-color="#FFB000" />
+    </linearGradient>
+
+    <linearGradient id="card-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(0, 231, 255, 0.4)" stroke-opacity="0.8"/>
+      <stop offset="50%" stop-color="rgba(123, 97, 255, 0.1)" stroke-opacity="0.2"/>
+      <stop offset="100%" stop-color="rgba(255, 176, 0, 0.4)" stroke-opacity="0.8"/>
+    </linearGradient>
+
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#06091F" />
+      <stop offset="100%" stop-color="#02040A" />
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="radial-glow-cyan" cx="20%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="rgba(0, 231, 255, 0.25)" />
+      <stop offset="100%" stop-color="rgba(5, 8, 22, 0)" />
+    </radialGradient>
+    <radialGradient id="radial-glow-purple" cx="80%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="rgba(123, 97, 255, 0.2)" />
+      <stop offset="100%" stop-color="rgba(5, 8, 22, 0)" />
+    </radialGradient>
+
+    <!-- Typing Mask for Tagline -->
+    <mask id="typing-mask-tag">
+      <rect x="0" y="0" width="0" height="60" fill="white">
+        <animate attributeName="width" values="0; 400; 400; 0; 0" dur="7s" repeatCount="indefinite" keyTimes="0; 0.45; 0.85; 0.95; 1" />
+      </rect>
+    </mask>
+
+    <filter id="neon-glow-filter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="100%" height="100%" fill="#050816"/>
+
+  <!-- Radial Ambience -->
+  <rect width="100%" height="100%" fill="url(#radial-glow-cyan)" />
+  <rect width="100%" height="100%" fill="url(#radial-glow-purple)" />
+
+  <!-- Cyber Grid -->
+  <rect width="100%" height="100%" fill="url(#grid)"/>
+
+  <!-- Moving Scanline effect -->
+  <rect width="100%" height="2" fill="rgba(0, 231, 255, 0.15)" style="animation: scanline 8s infinite linear;" />
+
+  <!-- Floating Ambient Particles -->
+  <circle class="particle-1" cx="150" cy="100" r="3" fill="#00E7FF" opacity="0.6"/>
+  <circle class="particle-2" cx="720" cy="120" r="4" fill="#7B61FF" opacity="0.4"/>
+  <circle class="particle-3" cx="620" cy="280" r="2" fill="#FFB000" opacity="0.5"/>
+  <circle class="particle-1" cx="240" cy="300" r="2.5" fill="#7B61FF" opacity="0.5"/>
+  <circle class="particle-2" cx="80" cy="220" r="3.5" fill="#FFB000" opacity="0.3"/>
+
+  <!-- Outer Glassmorphism Hero Container -->
+  <rect x="25" y="25" width="800" height="330" rx="20" fill="url(#card-bg)" stroke="url(#card-border)" stroke-width="1.5" opacity="0.95" />
+
+  <!-- Inner tech corners for cyber aesthetics -->
+  <path d="M 45 45 L 65 45 M 45 45 L 45 65" stroke="#00E7FF" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 805 45 L 785 45 M 805 45 L 805 65" stroke="#7B61FF" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 45 335 L 65 335 M 45 335 L 45 315" stroke="#FFB000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 805 335 L 785 335 M 805 335 L 805 315" stroke="#00E7FF" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Center Content Group -->
+  <g transform="translate(425, 0)" text-anchor="middle">
+    <!-- Welcome Badges & Text -->
+    <g transform="translate(0, 80)">
+      <!-- Neon Badge Container -->
+      <rect x="-85" y="-22" width="170" height="32" rx="16" fill="rgba(123, 97, 255, 0.1)" stroke="rgba(123, 97, 255, 0.4)" stroke-width="1"/>
+      <text class="font-sub" x="-5" y="-1" fill="#A5B4FC" font-size="12" letter-spacing="1.5">HI THERE, I'M</text>
+      <!-- Waving Hand Emoji -->
+      <text class="waving" x="55" y="-1" font-size="14">👋</text>
+    </g>
+
+    <!-- Main Glowing Name -->
+    <text class="font-title glow-name" x="0" y="155" fill="url(#cyber-gradient)" font-size="48" letter-spacing="2" filter="url(#neon-glow-filter)">NAVEENKUMAR T</text>
+
+    <!-- Subtitle tag with typewriter animation -->
+    <g transform="translate(0, 205)">
+      <!-- Background track to see typing behavior clearly -->
+      <text class="font-sub" x="0" y="0" fill="#A5B4FC" font-size="18" opacity="0.2" letter-spacing="1">Code • Innovate • Build Impact</text>
+      <!-- Typed text with mask -->
+      <text class="font-sub" x="0" y="0" fill="#FFFFFF" font-size="18" letter-spacing="1" mask="url(#typing-mask-tag)">Code • Innovate • Build Impact</text>
+
+      <!-- Typing Cursor -->
+      <line x1="0" y1="-18" x2="0" y2="4" stroke="#00E7FF" stroke-width="2.5">
+        <!-- Translate cursor position to match mask length -->
+        <animate attributeName="transform" type="translate"
+                 values="translate(-130, 0); translate(130, 0); translate(130, 0); translate(-130, 0); translate(-130, 0)"
+                 dur="7s" repeatCount="indefinite" keyTimes="0; 0.45; 0.85; 0.95; 1" />
+        <animate attributeName="opacity" values="1; 1; 0; 0; 1" dur="1s" repeatCount="indefinite" />
+      </line>
+    </g>
+
+    <!-- Role Badges & Context -->
+    <g transform="translate(0, 255)">
+      <text class="font-sub" x="0" y="0" fill="#A5B4FC" font-size="13" letter-spacing="0.5" opacity="0.85">
+        Backend-Focused Full-Stack Developer &amp; Competitive Programmer
+      </text>
+    </g>
+
+    <!-- Location & Status Badge -->
+    <g transform="translate(0, 290)">
+      <circle cx="-100" cy="-4" r="4.5" fill="#00E7FF">
+        <animate attributeName="opacity" values="1; 0.3; 1" dur="2s" repeatCount="indefinite" />
+        <animate attributeName="r" values="4.5; 7; 4.5" dur="2s" repeatCount="indefinite" />
+      </circle>
+      <text class="font-sub" x="-85" y="0" fill="#FFFFFF" font-size="11" letter-spacing="0.5" font-weight="bold" text-anchor="start">
+        Available for Roles
+      </text>
+
+      <text class="font-sub" x="35" y="0" fill="#A5B4FC" font-size="11" text-anchor="start">
+        📍 Erode, Tamil Nadu, India
+      </text>
+      <!-- Separator dot -->
+      <circle cx="25" cy="-4" r="2" fill="rgba(165, 180, 252, 0.5)" />
+    </g>
+  </g>
+</svg>
