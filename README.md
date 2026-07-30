@@ -1,106 +1,220 @@
-<div align="center">
-  <img width="80%" alt="Hi there, I'm NAVEENKUMAR T! 👋" src="./assets/TextStudio-Typewriter (2).gif" />
+# Naveenkumar T — Portfolio
+
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="NAVEENKUMAR T - Portfolio Hero Banner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naveenkumar7125&label=PROFILE%20VIEWS&color=00e7ff&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naveenkumar-t-683306320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2K%2B%20Followers-00E7FF?style=for-the-badge&logo=linkedin&logoColor=050816&color=7B61FF&labelColor=050816" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:naveenkumart906@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Connect-FFB000?style=for-the-badge&logo=gmail&logoColor=050816&color=00E7FF&labelColor=050816" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Naveenkumar7125/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-750%2B%20Solved-7B61FF?style=for-the-badge&logo=leetcode&logoColor=050816&color=FFB000&labelColor=050816" alt="LeetCode" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
+
+## 🚀 Core Focus &amp; Specializations
+
+<p align="center">
+  <img src="assets/intro_cards.svg" width="100%" alt="Developer Roles Card Grid" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
+
+## 👨‍💻 Journey &amp; Background
+
+<p align="center">
+  <img src="assets/timeline.svg" width="100%" alt="Experience &amp; Education Timeline Tracker" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
+
+## 🛠️ The Tech Ecosystem
+
+<p align="center">
+  <img src="assets/tech_stack.svg" width="100%" alt="Technology Stack Console Grid" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
+
+## 📈 Competency Dashboard
+
+<p align="center">
+  <img src="assets/skill_bars.svg" width="100%" alt="Animated Skill Progress Gauges" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
+
+## 📁 Featured Deployments
+
+### 1. 🕵️‍♂️ Smart Criminal Detection
+<p align="center">
+  <img src="assets/project_card_1.svg" width="100%" alt="Smart Criminal Detection Project Card" />
+</p>
+
+<details>
+  <summary><b>🔍 View Deep Dive: Features, Architecture &amp; Repository</b></summary>
   <br>
-  <img src="./assets/hi.gif" width="350px" />
 
-  <h3><b>Code • Innovate • Build Impact</b></h3>
-  <p>
-    <b>Backend-Focused Full-Stack Developer | Competitive Programmer | AI Enthusiast</b><br>
-    Final-year Computer Science and Engineering student at Nandha Engineering College (CGPA: 8.7). Passionate about architecting scalable backend systems and developing impactful ML-integrated web applications.
-  </p>
+  #### 🚀 Key Features
+  - **Live Edge Processing:** Processes real-time CCTV feeds and upload streams for automated activity analysis.
+  - **Dynamic Video Summarization:** Converts long surveillance footage into condensed, searchable intelligence reports.
+  - **Real-Time Notification Core:** Dispatches instant warnings to operators when suspect patterns are identified.
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/naveenkumar-t-683306320/"><img src="https://img.shields.io/badge/LinkedIn-2K%2B%20Followers-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:naveenkumart906@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://leetcode.com/u/Naveenkumar7125/"><img src="https://img.shields.io/badge/LeetCode-750%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  </p>
-</div>
+  #### 🌐 Architecture Diagram
+  ```
+  [ CCTV Feeds / Uploads ] ──> [ OpenCV + Python ML Engine ]
+                                      │ (Intelligent Frame Extraction)
+                                      ▼
+  [ MERN Stack Dashboard ] <── [ WebSocket API (Node.js) ]
+         │ (Admin Alerts)             │
+         ▼                            ▼
+  [ Live Feed Client ]         [ Cloudinary CDN Media Storage ]
+  ```
 
----
+  #### 📂 Highlight Repository
+  - **Codebase:** [Smart Criminal Detection GitHub Repository](https://github.com/Naveenkumar7125) *(In Progress)*
+  - **Status:** Under active development; ML module integration phase.
+</details>
 
-## 👨‍💻 About Me
-
-- 🎓 **2x Grand Finalist** at the **Smart India Hackathon (SIH 2024 & 2025)**.
-- 💻 Specialized in backend-focused full-stack development, leveraging **Node.js, Express, MongoDB, REST APIs, and WebSockets**.
-- 💡 Avid competitive coder with over **750+ algorithmic problems** solved on platforms like LeetCode and GeeksforGeeks.
-- 🚀 Focused on building technology products that solve real-world problems, from scalable web platforms to AI-driven analysis tools.
-- 📍 Based in Erode, Tamil Nadu, India.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-| 💻 Languages | 🌐 Web & Mobile | ⚙️ Backend & DB | 🤖 AI & Data | 🛠️ Tools |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" /><br>C | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /><br>HTML5 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /><br>Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /><br>Python | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /><br>Git |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /><br>C++ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /><br>CSS3 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Express | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" /><br>TensorFlow | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /><br>Postman |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /><br>Java | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /><br>React | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Flask | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" /><br>PyTorch | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" /><br>Figma |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript | <img src="https://reactnative.dev/img/header_logo.svg" width="40" /><br>React Native | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" /><br>MongoDB | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Scikit-Learn | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" /><br>Photoshop |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /><br>TypeScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" /><br>Android | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /><br>MySQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" style="background-color: white; border-radius: 5px; padding: 2px;" /><br>Pandas | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" /><br>Firebase |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 1. 🕵️‍♂️ Smart Criminal Detection *(In Progress)*
-- **Tech Stack:** Python, MERN Stack (MongoDB, Express, React, Node.js), Cloudinary.
-- **Description:** An ML-based video analysis system designed for CCTV streams and uploaded videos. It processes feeds to generate intelligent summaries and triggers real-time notifications, significantly enhancing surveillance efficiency and response times.
+<br>
 
 ### 2. 🗳️ Secure Online Polling System
-- **Tech Stack:** MERN Stack, JWT Authentication.
-- **Description:** A highly secure and scalable platform for conducting digital polls, featuring real-time vote tracking, user authentication, and an intuitive administrative dashboard.
+<p align="center">
+  <img src="assets/project_card_2.svg" width="100%" alt="Secure Online Polling System Project Card" />
+</p>
+
+<details>
+  <summary><b>🔍 View Deep Dive: Features, Architecture &amp; Repository</b></summary>
+  <br>
+
+  #### 🚀 Key Features
+  - **Tamper-Proof Authentication:** Restricts duplicate vote logging through secure token signature hashing.
+  - **Real-Time Dashboard:** Features live aggregate vote charts, counting analytics, and state updates.
+  - **Admin Control console:** Administrative board to initiate, terminate, or create dynamic poll criteria.
+
+  #### 🌐 Architecture Diagram
+  ```
+  [ Client Browser (React) ] ──(JWT Token + Poll Option Request)──> [ API Gateway (Express) ]
+                                                                             │
+                                                                             ▼
+  [ Live Chart Updates ] <───(Server-Side Aggregations)─────────── [ MongoDB Datastore ]
+  ```
+
+  #### 📂 Highlight Repository
+  - **Codebase:** [Secure Online Polling System GitHub Repository](https://github.com/Naveenkumar7125)
+  - **Demo:** [Request Digital Sandbox access](mailto:naveenkumart906@gmail.com)
+</details>
+
+<br>
 
 ### 3. 🎟️ Cinema Ticket Booking Portal
-- **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL.
-- **Description:** A robust web application for seamless movie ticket reservations, implementing dynamic seat selection, real-time availability checking, and secure database management.
+<p align="center">
+  <img src="assets/project_card_3.svg" width="100%" alt="Cinema Ticket Booking Portal Project Card" />
+</p>
 
----
+<details>
+  <summary><b>🔍 View Deep Dive: Features, Architecture &amp; Repository</b></summary>
+  <br>
 
-## 📈 Stats & Activity
+  #### 🚀 Key Features
+  - **Interactive Seat Allocator:** Dynamic, visual grid layout showcasing available, taken, and selected seats.
+  - **Lock Aggregation:** Handles rapid database transaction checkups to avoid double-bookings.
+  - **Relational Integrity:** Implements normalized structure mapping shows, auditoriums, tickets, and user accounts.
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Naveenkumar7125?theme=chartreuse&font=Sora&ext=heatmap" alt="LeetCode Stats" width="600" />
-</div>
+  #### 🌐 Architecture Diagram
+  ```
+  [ Frontend GUI (JS + HTML5/CSS3) ] ──(Transactional Post Request)──> [ PHP Core Controller ]
+                                                                               │
+                                                                               ▼
+  [ Seating Layout update ] <────────(Transaction State Update)────── [ MySQL Relational DB ]
+  ```
 
-<br>
+  #### 📂 Highlight Repository
+  - **Codebase:** [Cinema Booking Portal GitHub Repository](https://github.com/Naveenkumar7125)
+</details>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar7125&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar7125&show_icons=true&locale=en&layout=compact&theme=merko&hide_border=true" alt="Top Languages" height="195" />
-</div>
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
 
-<br>
+## 🏆 Honors &amp; Trophies
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar7125&theme=react-dark&hide_border=true&color=ffb000&line=00e7ff&point=ffb000&area=true" alt="Contribution Graph" width="850" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/Naveenkumar7125/Naveenkumar7125/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="850" />
-</div>
-
----
-
-## 🏆 Profile Badges
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=naveenkumar7125&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=naveenkumar7125&theme=synthwave&no-frame=true&margin-w=15&column=4" alt="Trophies Grid" />
   </a>
+</p>
+
+<br>
+
+- 🏅 **Smart India Hackathon (SIH 2024 &amp; 2025):** 2x National Grand Finalist solver under extreme deadline constraints.
+- ⚡ **Competitive Solving:** Solved 750+ advanced data structures &amp; programming problems on Leetcode / GeeksforGeeks.
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
+
+## 📊 Git Intelligence &amp; Activity
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar7125&bg_color=050816&title_color=00E7FF&text_color=FFFFFF&icon_color=7B61FF&border_color=7B61FF&show_icons=true&count_private=true" height="195" alt="GitHub Stats Card" />
+      </td>
+      <td>&nbsp;&nbsp;</td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar7125&layout=compact&bg_color=050816&title_color=00E7FF&text_color=FFFFFF&icon_color=7B61FF&border_color=7B61FF" height="195" alt="Top Languages Card" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=naveenkumar7125&label=Profile%20views&color=00e7ff&style=for-the-badge" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Naveenkumar7125?theme=dark&font=Sora&ext=heatmap" width="800" alt="LeetCode Solve Statistics &amp; Heatmap" />
+</p>
 
-<div align="center">
-  <i>Let's connect, collaborate, and create the future together! 😊</i>
-</div>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar7125&theme=react-dark&hide_border=true&color=ffb000&line=00e7ff&point=ffb000&area=true" width="850" alt="GitHub Contribution Trend Graph" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naveenkumar7125/Naveenkumar7125/output/github-contribution-grid-snake-dark.svg" width="850" alt="Contribution Grid Snake Game" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
+
+<!-- Wave Footer Section -->
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer Wave &amp; Developer Quote" />
+</p>
