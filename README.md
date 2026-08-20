@@ -12,7 +12,7 @@
 
 <!-- ═══════════════ ANIMATED TYPING HEADER ═══════════════ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=650&lines=Crafting+Scalable+Full-Stack+Web+Apps;750%2B+LeetCode+Problems+Solved+%E2%9A%A1;MERN+Stack+%2B+OpenCV+surveillance;2x+Smart+India+Hackathon+Grand+Finalist;Translating+Ideas+Into+Production-Grade+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=650&lines=Crafting+Scalable+Full-Stack+Web+Apps;950%2B+LeetCode+Problems+Solved+%E2%9A%A1;MERN+Stack+%2B+OpenCV+surveillance;2x+Smart+India+Hackathon+Grand+Finalist;Translating+Ideas+Into+Production-Grade+Code" alt="Typing SVG" />
 </a>
 
 <br/>
