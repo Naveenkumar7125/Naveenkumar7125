@@ -1,18 +1,18 @@
 <!-- 
   ══════════════════════════════════════════════════════════════════
   README.md — Premium GitHub Profile
-  Naveenkumar T — Full-Stack Developer & Software Engineer
+  Naveenkumar T — Backend Developer & Software Engineer
   ══════════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
 <!-- ═══════════════ ANIMATED BANNER (REAL-TIME GENERATED) ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:181236,100:00e7ff&height=220&section=header&text=NAVEENKUMAR%20T&fontSize=42&fontColor=00E7FF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=7B61FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:181236,100:00e7ff&height=220&section=header&text=NAVEENKUMAR%20T&fontSize=42&fontColor=00E7FF&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=7B61FF" width="100%"/>
 
 <!-- ═══════════════ ANIMATED TYPING HEADER ═══════════════ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=650&lines=Crafting+Scalable+Full-Stack+Web+Apps;750%2B+LeetCode+Problems+Solved+%E2%9A%A1;MERN+Stack+%2B+OpenCV+surveillance;2x+Smart+India+Hackathon+Grand+Finalist;Translating+Ideas+Into+Production-Grade+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=650&lines=Crafting+Scalable+Backend+Applications;950%2B+LeetCode+Problems+Solved+%E2%9A%A1;Java+%2B+Spring+Boot+%2B+Distributed+Systems;2x+Smart+India+Hackathon+Grand+Finalist;Translating+Ideas+Into+Production-Grade+Code" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,7 +34,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Naveenkumar7125/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-750%2B%20Solved-7B61FF?style=for-the-badge&logo=leetcode&logoColor=050816&color=FFB000&labelColor=050816" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-950%2B%20Solved-7B61FF?style=for-the-badge&logo=leetcode&logoColor=050816&color=FFB000&labelColor=050816" alt="LeetCode" />
   </a>
 </p>
 
@@ -55,18 +55,19 @@
 ```yaml
 developer:
   name: "Naveenkumar T"
-  role: "Full-Stack Developer & Software Engineer"
+  role: "Backend Developer & Software Engineer"
   location: "Tamil Nadu, India"
   education: "Bachelor of Engineering (B.E.)"
   metrics:
-    leetcode: "750+ Solved Problems"
+    leetcode: "950+ Solved Problems"
     hackathons: "2x SIH National Grand Finalist"
   focus_areas:
-    - "High-performance MERN web architectures"
-    - "Computer Vision & Video Analytics (OpenCV)"
-    - "Robust and secure API integrations"
-  currently_building: "Suspect detection workflows & optimized reservation systems"
-  interests: "Multi-agent AI networks, database performance & real-time analytics"
+    - "Backend APIs & Services"
+    - "System Design & Distributed Systems"
+    - "Data Structures & Algorithms (DSA)"
+    - "Problem Solving & Optimization"
+  currently_building: "High-performance backend systems & distributed workflows"
+  interests: "Event-driven architectures, caching topologies & database optimization"
 ```
 
 </td>
@@ -77,7 +78,7 @@ developer:
 <summary><b>🧠 Engineering Mindset & Approach (Click to Expand)</b></summary>
 <br/>
 
-I thrive at the intersection of robust backend engineering and analytical problem-solving. Whether it's optimization of transactional locks to prevent double-booking or configuring custom real-time WebSockets to broadcast surveillance alerts, I am passionate about crafting code that is both clean and highly performant. With a solid foundation in data structures and algorithm design (demonstrated through 750+ LeetCode solutions), I approach software engineering with a structured, optimization-first philosophy.
+I thrive at the intersection of robust backend engineering and analytical problem-solving. Whether it's optimization of transactional locks to prevent double-booking or configuring custom real-time WebSockets to broadcast surveillance alerts, I am passionate about crafting code that is both clean and highly performant. With a solid foundation in data structures and algorithm design (demonstrated through 950+ LeetCode solutions), I approach software engineering with a structured, optimization-first philosophy.
 
 </details>
 
@@ -91,10 +92,10 @@ I thrive at the intersection of robust backend engineering and analytical proble
 
 | Milestone | Category | Focus / Project Details |
 | :--- | :--- | :--- |
-| **🎓 Education** | Computer Science & Engineering | nandha Engineering College |
+| **🎓 Education** | Computer Science & Engineering | Nandha Engineering College |
 | **🏆 Hackathons** | 2x National Grand Finalist | Smart India Hackathon (SIH 2024 & 2025) |
-| **💻 Focus** | Backend & Computer Vision | WebSocket integrations, MERN apps, Python OpenCV surveillance |
-| **⚡ DSA Solver** | 750+ Problems Solved | Advanced problem solving on LeetCode & GeeksforGeeks |
+| **💻 Focus** | Backend Architecture & APIs | Spring Boot, WebSockets, Prisma, Event Brokers |
+| **⚡ DSA Solver** | 950+ Problems Solved | Advanced problem solving on LeetCode & GeeksforGeeks |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
@@ -112,38 +113,36 @@ I thrive at the intersection of robust backend engineering and analytical proble
       <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
       <br/>
-      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
       <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=subversion&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Backend & Databases</h3>
-      <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+      <h3>⚙️ Frameworks &amp; ORMs</h3>
+      <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
+      <br/>
       <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
-      <br/>
-      <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Frontend Frameworks</h3>
-      <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></a>
+      <h3>🗄️ Databases &amp; Caching</h3>
+      <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
       <br/>
-      <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI & Developer Tools</h3>
-      <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+      <h3>📨 Messaging &amp; DevOps</h3>
+      <a href="#"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" /></a>
       <br/>
       <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -151,7 +150,7 @@ I thrive at the intersection of robust backend engineering and analytical proble
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
 <!-- ═══════════════════════════════════════════════════════════
-     FEATURED DEPLOYMENTS (REAL BRAND LOGOS)
+     FEATURED DEPLOYMENTS
 ═══════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Deployments
@@ -305,7 +304,7 @@ An interactive seat reservation web app utilizing normalized SQL structures and 
   </tr>
   <tr>
     <td>⚡</td>
-    <td><b>Competitive Programming Enthusiast</b> — Solved 750+ advanced DSA & algorithmic challenges on Leetcode / GeeksforGeeks</td>
+    <td><b>Competitive Programming Enthusiast</b> — Solved 950+ advanced DSA & algorithmic challenges on Leetcode / GeeksforGeeks</td>
   </tr>
 </table>
 
@@ -322,11 +321,11 @@ An interactive seat reservation web app utilizing normalized SQL structures and 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar7125&bg_color=050816&title_color=00E7FF&text_color=FFFFFF&icon_color=7B61FF&border_color=7B61FF&show_icons=true&count_private=true" height="195" alt="GitHub Stats Card" />
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Naveenkumar7125&bg_color=050816&title_color=00E7FF&text_color=FFFFFF&icon_color=7B61FF&border_color=7B61FF&show_icons=true&count_private=true" height="195" alt="GitHub Stats Card" />
     </td>
     <td>&nbsp;&nbsp;</td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar7125&layout=compact&bg_color=050816&title_color=00E7FF&text_color=FFFFFF&icon_color=7B61FF&border_color=7B61FF" height="195" alt="Top Languages Card" />
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=naveenkumar7125&layout=compact&bg_color=050816&title_color=00E7FF&text_color=FFFFFF&icon_color=7B61FF&border_color=7B61FF" height="195" alt="Top Languages Card" />
     </td>
   </tr>
 </table>
@@ -355,7 +354,7 @@ An interactive seat reservation web app utilizing normalized SQL structures and 
 ## 🎯 Current Focus
 
 - [x] Setting up WebSockets for real-time criminal detection alerts (Phase 1)
-- [x] Reaching 750+ solved problems on Leetcode
+- [x] Reaching 950+ solved problems on Leetcode
 - [ ] Integrating Deep Learning modules with the core Python OpenCV video intelligence microservice
 - [ ] Optimizing Relational Transaction Locks for scalable seat allocations
 - [ ] Deepening knowledge of microservices & distributed caches (Redis)
@@ -412,7 +411,7 @@ An interactive seat reservation web app utilizing normalized SQL structures and 
 
 ```
  ╭──────────────────────────────────────────────────────────╮
-   Software Engineer · Open to Collaborate & Build        
+   Backend Engineer · Open to Collaborate & Build        
    Let's create scalable systems & intelligent designs.   
  ╰──────────────────────────────────────────────────────────╯
 ```
