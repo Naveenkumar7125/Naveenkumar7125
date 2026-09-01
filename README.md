@@ -42,6 +42,48 @@
 
 ---
 
+<!-- SECTION: GITHUB STATS & CONTRIBUTIONS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,80:0d1117,100:00f2fe&height=40&text=📊%20GITHUB%20STATS%20&%20ACTIVITY%20METRICS&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
+
+<div align="center">
+
+<br/>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/Naveenkumar7125">
+    <img src="https://github-profile-trophy.vercel.app/?username=Naveenkumar7125&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<!-- GitHub Stats & Streak Side-by-Side -->
+<p align="center">
+  <a href="https://github.com/Naveenkumar7125">
+    <img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar7125&show_icons=true&theme=tokyonight&bg_color=080808&title_color=00f2fe&text_color=e4e4e7&icon_color=00f2fe&border_color=00f2fe40&border_radius=10&rank_icon=github" alt="Naveen's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/Naveenkumar7125">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar7125&theme=tokyonight&background=080808&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&currStreakLabel=8b5cf6&sideNums=00f2fe&sideLabels=e4e4e7&dates=a1a1aa&border=00f2fe40&border_radius=10" alt="Naveen's GitHub Streak" width="48%" />
+  </a>
+</p>
+
+<!-- Top Languages & Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Naveenkumar7125">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar7125&layout=compact&theme=tokyonight&bg_color=080808&title_color=00f2fe&text_color=e4e4e7&border_color=00f2fe40&border_radius=10" alt="Top Languages" width="48%" />
+  </a>
+</p>
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Naveenkumar7125">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar7125&theme=tokyo-night&bg_color=080808&color=00f2fe&line=00f2fe&point=8b5cf6&area=true&hide_border=false&border_color=00f2fe40" alt="Contribution Graph" width="98%" />
+  </a>
+</p>
+
+</div>
+
+---
+
 <!-- SECTION: RECRUITER FAST GLANCE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,80:0d1117,100:00f2fe&height=40&text=⚡%20RECRUITER%2030-SECOND%20FAST%20GLANCE&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
 
