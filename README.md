@@ -1,25 +1,27 @@
 <div align="center">
 
-<!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,35:0d1117,70:161b22,100:00f2fe&height=240&section=header&text=NAVEEN%20KUMAR%20T&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Microservices%20Architect%20%7C%20AI%20%26%20ML%20Engineer&descFontSize=18&descColor=00f2fe&descAlignY=62" width="100%" />
+<!-- Master Cyber Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050508,40:0d1117,80:161b22,100:00f2fe&height=220&section=header&text=NAVEEN%20KUMAR%20T&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Microservices%20Architect%20%7C%20AI%20%26%20ML%20Engineer&descFontSize=17&descColor=00f2fe&descAlignY=65" width="100%" />
 
-<!-- Profile Image with Glowing Border -->
+<br/>
+
+<!-- Avatar Image -->
+<a href="https://linkedin.com/in/naveenkumar7125">
+  <img src="https://res.cloudinary.com/dprwjya79/image/upload/v1788272704/ChatGPT_Image_Aug_7_2026_07_23_06_PM_s79ndf.png" alt="Naveen Kumar T" width="140" height="140" style="border-radius: 50%;" />
+</a>
+
+<br/><br/>
+
+<!-- Animated Role Typing -->
+<a href="https://github.com/Naveenkumar7125">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=700&lines=Building+Production-Ready+Distributed+Microservices;800%2B+LeetCode+Problems+Solved+(~52k+Global+Rank);AI-Powered+Surveillance+%26+Computer+Vision+(YOLOv8);2x+Smart+India+Hackathon+Finalist+(2024+%26+2025);B.E.+Computer+Science+%7C+CGPA+8.7" alt="Typing SVG" />
+</a>
+
 <p align="center">
-  <img src="https://res.cloudinary.com/dprwjya79/image/upload/v1788272704/ChatGPT_Image_Aug_7_2026_07_23_06_PM_s79ndf.png" alt="Naveen Kumar T" width="155" height="155" style="border-radius: 50%; border: 3px solid #00F2FE; box-shadow: 0 0 35px rgba(0, 242, 254, 0.6); margin-top: -30px;" />
+  <em>"I don't just build applications. I engineer resilient systems, solve complex distributed problems, and turn AI/ML ideas into production-ready architectures."</em>
 </p>
 
-<!-- Dynamic Multi-Line Typing Effect -->
-<p align="center">
-  <a href="https://github.com/Naveenkumar7125">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Building+Scalable+Spring+Boot+Microservices;800%2B+LeetCode+Problems+Solved+(~52k+Global+Rank);AI-Powered+Real-Time+Surveillance+%26+YOLOv8;2x+Smart+India+Hackathon+Finalist+(2024+%26+2025);B.E.+Computer+Science+%7C+CGPA+8.7" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <em>"I don't just build applications. I engineer resilient systems, solve complex distributed problems, and turn AI/ML ideas into production-ready products."</em>
-</p>
-
-<!-- Cyber Badges Row -->
+<!-- Verification Status Badges -->
 <p align="center">
   <a href="mailto:nt03625@gmail.com"><img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_SWE_ROLES-00F2FE?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=080808" alt="Status" /></a>
   <a href="https://leetcode.com/u/Naveenkumar7125/"><img src="https://img.shields.io/badge/LEETCODE-800%2B_SOLVED_(~52K_RANK)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=080808" alt="LeetCode" /></a>
@@ -40,31 +42,60 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,100:00f2fe&height=35&text=⚡%20RECRUITER%2030-SECOND%20FAST%20GLANCE&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
+<!-- SECTION: RECRUITER FAST GLANCE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,80:0d1117,100:00f2fe&height=40&text=⚡%20RECRUITER%2030-SECOND%20FAST%20GLANCE&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 | Candidate Attribute | Verified Profile Details |
 | :--- | :--- |
 | 🎓 **Education & Degree** | **Nandha Engineering College** — B.E. in Computer Science & Engineering (2022 – 2026) · **CGPA: 8.7 / 10.0** |
-| 💼 **Target Opportunities** | **Full-Stack Developer** · **Software Development Engineer (SDE)** · **Backend Engineer (Java / Spring)** · **AI/ML Developer** |
-| ☕ **Primary Languages** | `Java 17/21` · `JavaScript (ES6+)` · `TypeScript` · `Python` · `SQL` · `C/C++` |
+| 💼 **Target Roles** | **Full-Stack Developer** · **Software Engineer (SDE)** · **Backend Engineer (Java / Spring Boot)** · **AI/ML Developer** |
+| ☕ **Languages** | `Java 17/21` · `JavaScript (ES6+)` · `TypeScript` · `Python` · `SQL` · `C/C++` |
 | 🚀 **Core Architectures** | **Spring Boot 3**, **Spring Cloud Eureka**, **Spring Cloud Gateway**, **OpenFeign**, **RabbitMQ**, **React 18**, **Node.js**, **Express**, **MongoDB**, **MySQL** |
 | 👁️ **AI & Vision Pipeline** | **YOLOv8**, **OpenCV**, **Face Recognition**, **Video Summarization**, **PyTorch**, **WebSockets** |
-| 🏆 **Top Distinctions** | **2× Smart India Hackathon Shortlist** (2024 & 2025) · **InnovateX IIT Kharagpur Grand Finalist** (2025) · **NIT Trichy AI/ML Research Selection** |
+| 🏆 **Top Distinctions** | **2× Smart India Hackathon Shortlist** (2024 & 2025) · **InnovateX IIT Kharagpur Grand Finalist** (2025) · **NIT Trichy AI/ML Selection** |
 | 🧠 **Problem Solving** | **800+ LeetCode Problems Solved** (Global Rank **~52,000** among millions worldwide) |
-| 📍 **Location & Availability** | Erode, Tamil Nadu, India · **Open for On-Site / Hybrid / Remote Roles** |
+| 📍 **Location & Work** | Erode, Tamil Nadu, India · **Open for On-Site / Hybrid / Remote Roles** |
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,100:ffa116&height=35&text=🧠%20ALGORITHMIC%20PROBLEM%20SOLVING%20&%20LEETCODE%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
+<!-- SECTION: SKILLS & TECH STACK -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,80:0d1117,100:10b981&height=40&text=🛠️%20TECH%20STACK%20&%20ENGINEERING%20TOOLKIT&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 <div align="center">
 
+<br/>
+
+<!-- Modern Animated Interactive Skill Icons -->
 <p align="center">
-  <!-- Dynamic Live LeetCode Card -->
-  <a href="https://leetcode.com/u/Naveenkumar7125/">
-    <img src="https://leetcard.jacoblin.cool/Naveenkumar7125?theme=nord&font=Outfit&ext=heatmap" alt="LeetCode Stats Card" width="480" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,opencv,js,ts,react,tailwind,nodejs,express,rabbitmq,mysql,mongodb,docker,git&perline=8&theme=dark" alt="Skill Icons Matrix" />
 </p>
+
+| Discipline | Technologies & Frameworks | Architectural Focus |
+| :--- | :--- | :--- |
+| **Languages** | `Java (17/21)` · `Python` · `JavaScript` · `TypeScript` · `SQL` · `C/C++` | OOP, Multithreading, JVM Internals, Asynchronous Event Loops |
+| **Backend & APIs** | `Spring Boot 3` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `Node.js` · `Express` | REST APIs, JWT Auth, Spring Security, Connection Pooling |
+| **Microservices** | `Spring Cloud Eureka` · `Spring Cloud Gateway` · `OpenFeign` · `RabbitMQ` · `WebSockets` | Service Discovery, Circuit Breakers (Resilience4j), Saga Pattern |
+| **AI / Vision** | `YOLOv8` · `OpenCV` · `Face Recognition` · `Video Summarization` · `PyTorch` | RTSP Ingestion, Dynamic Frame Sampling, 128-d Vector Embeddings |
+| **Databases** | `MySQL 8.0` · `MongoDB` · `PostgreSQL` · `Cloudinary` | ACID Transactions, B-Tree Indexes, Aggregation Pipelines |
+| **DevOps & Cloud** | `Docker` · `Docker Compose` · `Git` · `GitHub` · `Postman` · `VS Code` · `IntelliJ` | Containerization, Git Flow, Declarative Health Checks |
+
+</div>
+
+---
+
+<!-- SECTION: LEETCODE & PROBLEM SOLVING -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,80:0d1117,100:ffa116&height=40&text=🧠%20ALGORITHMIC%20PROBLEM%20SOLVING%20&%20LEETCODE%20(800+%20SOLVED)&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
+
+<div align="center">
+
+<br/>
+
+<!-- Dynamic Live LeetCode Card -->
+<a href="https://leetcode.com/u/Naveenkumar7125/">
+  <img src="https://leetcard.jacoblin.cool/Naveenkumar7125?theme=nord&font=JetBrains+Mono&ext=activity" alt="LeetCode Card" width="500" />
+</a>
+
+<br/><br/>
 
 ```
 ========================================================================================
@@ -83,31 +114,32 @@
 
 </div>
 
-### 🧩 Algorithmic Pattern Competencies
+### 🧩 Algorithmic Pattern Mastery
 
-| Problem Category | Count | Dominant Patterns Mastered | Asymptotic Bound |
+| Domain Category | Solved | Key Algorithms & Patterns | Time / Space Complexity |
 | :--- | :---: | :--- | :---: |
-| 🌲 **Trees & Binary Search Trees** | **110+** | Level-Order Traversal, Morris Traversal, Path Sum, LCA, Diameter | `O(N)` Time · `O(H)` Space |
-| 🌐 **Graphs & Disjoint Sets (DSU)** | **100+** | Dijkstra, BFS/DFS, Kahn's Topological Sort, Kruskal's MST, Union-Find | `O(V + E)` |
-| ⚡ **Dynamic Programming** | **125+** | 0/1 Knapsack, Longest Common Subsequence, Grid Paths, Digit DP | `O(N*W)`, `O(N*M)` |
+| 🌲 **Trees & Binary Search Trees** | **110+** | Level-Order Traversal, Morris Inorder, Path Sum, LCA, Tree Diameter | `O(N)` Time · `O(H)` Space |
+| 🌐 **Graphs & Disjoint Sets (DSU)** | **100+** | Dijkstra, Kahn's Topological Sort, Kruskal's MST, Union-Find | `O(V + E)` |
+| ⚡ **Dynamic Programming** | **125+** | 0/1 Knapsack, Longest Common Subsequence, Grid DP, State Compression | `O(N*W)`, `O(N*M)` |
 | 🪟 **Sliding Window & Two Pointers**| **95+** | Monotonic Deque, Variable/Fixed Window, Kadane's Algorithm | `O(N)` Time · `O(1)` Space |
 | 🔍 **Binary Search on Answer** | **85+** | Monotonic Predicate Inversion, Lower/Upper Bounds, Matrix Search | `O(log N)` |
-| 🗄️ **SQL & Query Optimization** | **82+** | Window Functions (`ROW_NUMBER`, `LEAD`), CTEs, Relational Joins | High Execution Plan Efficiency |
+| 🗄️ **SQL & Query Optimization** | **82+** | Window Functions (`ROW_NUMBER`, `LEAD`), CTEs, Relational Joins | High Index Execution Plans |
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,100:00f2fe&height=35&text=🚀%20FLAGSHIP%20SYSTEMS%20&%20CASE%20STUDIES&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
+<!-- SECTION: FLAGSHIP PROJECTS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,80:0d1117,100:00f2fe&height=40&text=🚀%20FLAGSHIP%20ENGINEERING%20SYSTEMS%20&%20CASE%20STUDIES&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 <details open>
 <summary><h3>1. 📹 SRI — AI & ML Enabled Video Analysis and Interpretation System</h3></summary>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=1000&q=80" alt="SRI Video Analytics Banner" width="100%" style="border-radius: 12px; border: 1px solid rgba(0, 242, 254, 0.3);" />
+  <img src="https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=1000&q=80" alt="SRI Video Analytics Banner" width="100%" style="border-radius: 12px; border: 1px solid rgba(0, 242, 254, 0.4);" />
 </p>
 
-> **Core Impact**: **Reduced manual CCTV surveillance review time by ~67%** via instance-level summarization.  
-> **Disciplines**: `Distributed Microservices` · `Computer Vision` · `Real-Time Streaming`  
-> **Technologies**: `Python` · `React.js` · `Node.js` · `Express.js` · `MongoDB` · `WebSockets` · `OpenCV` · `YOLOv8` · `Docker`
+> **Core Metric**: **Reduced manual CCTV surveillance review time by ~67%** with instance-level summarization.  
+> **Architecture**: `Distributed Microservices` · `Computer Vision` · `Real-Time WebSocket Streams`  
+> **Tech Stack**: `Python` · `React.js` · `Node.js` · `Express.js` · `MongoDB` · `WebSockets` · `OpenCV` · `YOLOv8` · `Docker`
 
 #### 🏗️ Pipeline Data Flow Topology
 ```text
@@ -140,12 +172,12 @@
 <summary><h3>2. 🛒 Enterprise Microservices E-Commerce Architecture</h3></summary>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1000&q=80" alt="Microservices Architecture Banner" width="100%" style="border-radius: 12px; border: 1px solid rgba(139, 92, 246, 0.3);" />
+  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1000&q=80" alt="Microservices Architecture Banner" width="100%" style="border-radius: 12px; border: 1px solid rgba(139, 92, 246, 0.4);" />
 </p>
 
-> **Core Impact**: **Decoupled high-throughput order fulfillment with Saga Choreography and zero cascading downtime.**  
-> **Disciplines**: `Distributed Systems` · `Cloud Native` · `Event-Driven Backend`  
-> **Technologies**: `Spring Boot 3` · `Spring Cloud Eureka` · `Spring Cloud Gateway` · `OpenFeign` · `RabbitMQ` · `MySQL 8.0` · `Docker Compose` · `React 18`
+> **Core Metric**: **Decoupled high-throughput order fulfillment with Saga Choreography and zero cascading downtime.**  
+> **Architecture**: `Distributed Systems` · `Cloud Native` · `Event-Driven Backend`  
+> **Tech Stack**: `Spring Boot 3` · `Spring Cloud Eureka` · `Spring Cloud Gateway` · `OpenFeign` · `RabbitMQ` · `MySQL 8.0` · `Docker Compose` · `React 18`
 
 #### 🏗️ Distributed Services Topology
 ```text
@@ -164,7 +196,7 @@
 ```
 
 - **Database-per-Service Pattern**: Complete schema isolation between Catalog, Order, and Inventory data stores.
-- **Resilience4j Circuit Breakers**: Automatic fallback handlers preventing latency cascades during third-party dependency outages.
+- **Resilience4j Circuit Breakers**: Automatic fallback handlers preventing latency cascades during downstream microservice faults.
 - **Measured Metrics**: **<45ms Order Placement Latency** · **99.9% Message Delivery Reliability** · **5 Scalable Docker Containers**.
 
 </details>
@@ -173,10 +205,10 @@
 <summary><h3>3. 🛡️ Smart Surveillance & Automated Threat Recognition System</h3></summary>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=1000&q=80" alt="Smart Surveillance" width="100%" style="border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.3);" />
+  <img src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=1000&q=80" alt="Smart Surveillance" width="100%" style="border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.4);" />
 </p>
 
-> **Technologies**: `React` · `Node.js` · `MongoDB` · `Python` · `OpenCV` · `YOLO` · `Socket.io` · `Cloudinary`  
+> **Tech Stack**: `React` · `Node.js` · `MongoDB` · `Python` · `OpenCV` · `YOLO` · `Socket.io` · `Cloudinary`  
 > **Impact**: **90%+ real-time accuracy handling concurrent CCTV camera feeds with instant control room alarms.**
 
 - Multi-stream RTSP CCTV camera feed decoding.
@@ -188,7 +220,7 @@
 <details>
 <summary><h3>4. 🗳️ NFC-Based Voter Verification & Anti-Duplication System</h3></summary>
 
-> **Technologies**: `Hardware NFC Reader` · `Node.js` · `Express` · `React` · `MongoDB` · `WebSockets`  
+> **Tech Stack**: `Hardware NFC Reader` · `Node.js` · `Express` · `React` · `MongoDB` · `WebSockets`  
 > **Impact**: **Reduced voter check-in turnaround time by 60% with 100% duplicate attempt interception.**
 
 - Hardware NFC reader interfacing with polling booth client terminals.
@@ -200,7 +232,7 @@
 <details>
 <summary><h3>5. 🌦️ Geo-Fenced Weather Forecasting & Spatial Analytics (NANDHA INFOTECH)</h3></summary>
 
-> **Technologies**: `React.js` · `Node.js` · `Express` · `OpenWeather API` · `Leaflet Maps` · `Git`  
+> **Tech Stack**: `React.js` · `Node.js` · `Express` · `OpenWeather API` · `Leaflet Maps` · `Git`  
 > **Impact**: **Served 100+ active users during internship with 82% API cache hit optimization.**
 
 - Spatial polygon coordinate geofencing with real-time precipitation radar mapping.
@@ -211,7 +243,7 @@
 <details>
 <summary><h3>6. 🗺️ Smart Travel Guide & Route Optimizer (Application Development Hub, NEC)</h3></summary>
 
-> **Technologies**: `React.js` · `Node.js` · `Express` · `MongoDB` · `Google Maps API`  
+> **Tech Stack**: `React.js` · `Node.js` · `Express` · `MongoDB` · `Google Maps API`  
 > **Impact**: **Reduces tourist itinerary planning time from 45 minutes to <2 minutes using 2-Opt TSP heuristics.**
 
 - Heuristic graph waypoint path optimizer.
@@ -221,55 +253,8 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,100:10b981&height=35&text=🛠️%20TECHNICAL%20SKILLS%20MATRIX&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
-
-<div align="center">
-
-### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
-
-### ⚙️ Backend & Microservices
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
-</p>
-
-### 👁️ AI, Computer Vision & Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
-### 🗄️ Databases, DevOps & Cloud Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,100:8b5cf6&height=35&text=🏆%20ACHIEVEMENTS,%20HONORS%20&%20PUBLICATIONS&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
+<!-- SECTION: ACHIEVEMENTS & RESEARCH -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,80:0d1117,100:8b5cf6&height=40&text=🏆%20HONORS,%20HACKATHONS%20&%20RESEARCH&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 ```text
 ┌───────────────────────────────────────────────────────────────────────────────────────────┐
@@ -290,7 +275,8 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,100:00f2fe&height=35&text=💼%20WORK%20EXPERIENCE%20&%20EDUCATION&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
+<!-- SECTION: EXPERIENCE & EDUCATION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,80:0d1117,100:00f2fe&height=40&text=💼%20WORK%20EXPERIENCE%20&%20ACADEMIC%20RECORD&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 ```text
 • APP DEVELOPER — Application Development Hub, CSE Dept, NEC (2024 – Present)
@@ -305,11 +291,14 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,100:10b981&height=35&text=📬%20GET%20IN%20TOUCH%20&%20CONNECT&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
+<!-- SECTION: GET IN TOUCH -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,80:0d1117,100:10b981&height=40&text=📬%20LET'S%20CONNECT%20&%20BUILD%20SOMETHING%20GREAT&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 <div align="center">
 
-### Actively Interviewing for Full-Time Software Engineering & Backend Roles (Class of 2026)
+<br/>
+
+### Open for Full-Time Software Engineering & Backend Opportunities (Class of 2026)
 
 <p align="center">
   <a href="mailto:nt03625@gmail.com"><img src="https://img.shields.io/badge/Email-nt03625%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -319,7 +308,7 @@
   <a href="https://leetcode.com/u/Naveenkumar7125/"><img src="https://img.shields.io/badge/LeetCode-Naveenkumar7125-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-<!-- Footer Waving SVG -->
+<!-- Footer Waving Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:8b5cf6,100:050508&height=120&section=footer" width="100%" />
 
 <p align="center">
