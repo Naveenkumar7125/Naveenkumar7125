@@ -4,12 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040405,30:0a0f1d,70:1a103c,100:00f2fe&height=260&section=header&text=NAVEEN%20KUMAR%20T&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Systems%20Architect%20%7C%20Distributed%20Microservices%20%7C%20AI%20Vision&descFontSize=17&descColor=00f2fe&descAlignY=60&animation=fadeIn" width="100%" />
 
 <br/>
-
-<!-- Profile Avatar with Cyber Glow -->
-<a href="https://linkedin.com/in/naveenkumar7125">
-  <img src="https://res.cloudinary.com/dprwjya79/image/upload/v1788272704/ChatGPT_Image_Aug_7_2026_07_23_06_PM_s79ndf.png" alt="Naveen Kumar T" width="150" height="150" style="border-radius: 50%;" />
-</a>
-
 <br/><br/>
 
 <!-- Animated Role Typing -->
